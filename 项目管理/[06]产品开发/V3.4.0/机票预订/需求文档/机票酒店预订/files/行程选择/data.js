@@ -1,0 +1,426 @@
+﻿$axure.loadCurrentPage({
+  "url":"行程选择.html",
+  "generationDate":new Date(1403662782937.5),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"979f0035f84d44b09a394913c1860714",
+    "type":"Axure:Page",
+    "name":"行程选择",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0c9062299bb14f9485972db8d02b0fbf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":800},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cf1a7a66f0934b1998d5bb2e595c3973",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":800},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u0.png"}},
+{
+          "id":"0b573b9abb1c48feb4a4a989b5f7a937",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":53,
+              "y":137},
+            "size":{
+              "width":320,
+              "height":16},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb0c6546c5d4487dac9a2fa5185606f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":53,
+                  "y":137},
+                "size":{
+                  "width":320,
+                  "height":16},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u2.png"}},
+{
+          "id":"3efd8dfab5294c6a955539f613a2521a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":53,
+              "y":158},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f91db0b3ef4a452b9edfed08c3a84cbf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":53,
+                  "y":158},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u4.png"}},
+{
+          "id":"983d636ac1ce443884337e069dbf0a57",
+          "label":"text - h2",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"21px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":165,
+              "y":172},
+            "size":{
+              "width":115,
+              "height":25},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"07a4f078157d455c87a554a102b96abc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"21px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":165,
+                  "y":172},
+                "size":{
+                  "width":115,
+                  "height":25},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"29ffb6f95cb44a4bb1b6c1fc216436ab",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":64,
+              "y":171},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c68e41a5ca9f44f3bad6acfb3559de2d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":64,
+                  "y":171},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 机票预定",
+                      "target":{
+                        "targetType":"page",
+                        "url":"机票预定.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/机票预定/u8.png"}},
+{
+          "id":"9a2d9153828549c682c5c5ad67275873",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":80,
+              "y":235},
+            "size":{
+              "width":130,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c25f2bfc898f4e2fa6a7c21ffc71acd6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":80,
+                  "y":235},
+                "size":{
+                  "width":130,
+                  "height":35}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票预定/u12.png"}},
+{
+          "id":"cf7d931df9fc425094a5acc5cf085a3b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":210,
+              "y":235},
+            "size":{
+              "width":130,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50febab8e1b44b25bfe5bef0db6bffc3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":210,
+                  "y":235},
+                "size":{
+                  "width":130,
+                  "height":35}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票预定/u12.png"}},
+{
+          "id":"dac5dfd064a44421b4cc196df7525e51",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":80,
+              "y":280},
+            "size":{
+              "width":260,
+              "height":335}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"435f53542c624dff9ed9cef52e020f4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":80,
+                  "y":280},
+                "size":{
+                  "width":260,
+                  "height":335}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 购票订单",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购票订单.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/行程选择/u14.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0c9062299bb14f9485972db8d02b0fbf":{
+      "scriptId":"u0"},
+    "cf1a7a66f0934b1998d5bb2e595c3973":{
+      "scriptId":"u1"},
+    "0b573b9abb1c48feb4a4a989b5f7a937":{
+      "scriptId":"u2"},
+    "cb0c6546c5d4487dac9a2fa5185606f9":{
+      "scriptId":"u3"},
+    "3efd8dfab5294c6a955539f613a2521a":{
+      "scriptId":"u4"},
+    "f91db0b3ef4a452b9edfed08c3a84cbf":{
+      "scriptId":"u5"},
+    "983d636ac1ce443884337e069dbf0a57":{
+      "scriptId":"u6"},
+    "07a4f078157d455c87a554a102b96abc":{
+      "scriptId":"u7"},
+    "29ffb6f95cb44a4bb1b6c1fc216436ab":{
+      "scriptId":"u8"},
+    "c68e41a5ca9f44f3bad6acfb3559de2d":{
+      "scriptId":"u9"},
+    "9a2d9153828549c682c5c5ad67275873":{
+      "scriptId":"u10"},
+    "c25f2bfc898f4e2fa6a7c21ffc71acd6":{
+      "scriptId":"u11"},
+    "cf7d931df9fc425094a5acc5cf085a3b":{
+      "scriptId":"u12"},
+    "50febab8e1b44b25bfe5bef0db6bffc3":{
+      "scriptId":"u13"},
+    "dac5dfd064a44421b4cc196df7525e51":{
+      "scriptId":"u14"},
+    "435f53542c624dff9ed9cef52e020f4c":{
+      "scriptId":"u15"}}});

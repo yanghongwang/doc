@@ -1,0 +1,471 @@
+﻿$axure.loadCurrentPage({
+  "url":"钱包充值.html",
+  "generationDate":new Date(1407380578406.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"77f19a730e844f4fa90d2fb07659d6f9",
+    "type":"Axure:Page",
+    "name":"钱包充值",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f8f6526d84124d8dbb597da63c022d18",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":26},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"90a8a30340a14f0db83c08b2550da817",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":26},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝钱包（首页）/u0.png"}},
+{
+          "id":"d45ea4db93df4bab97cb2be819b5d7e4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":178},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9354e9bbda8f4bff9a213f55033b823c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":178},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝钱包（首页）/u2.png"}},
+{
+          "id":"29b9bf9bc46b4a0ba872c178e3beb1e0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b1438decceaa49f09d2fc5c4f9b3e8dc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝钱包（首页）/u4.png"}},
+{
+          "id":"fcccb2484cb94f58ab4bf5289f6764a0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":181},
+            "size":{
+              "width":71,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f58d639689454ffc853aef0a44136804",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":181},
+                "size":{
+                  "width":71,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 通付宝钱包（首页）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通付宝钱包（首页）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/通付宝钱包（首页）/u10.png"}},
+{
+          "id":"46823a101da64af29bcd3bbd9457e2ba",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":132,
+              "y":182},
+            "size":{
+              "width":168,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc066298fddd45868d65f62360d38443",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":132,
+                  "y":182},
+                "size":{
+                  "width":168,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"26d0243b913e4d008f3562656facfd55",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":60,
+              "y":250},
+            "size":{
+              "width":298,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"98dc8a9f32654310b3085610bc34d7c7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":60,
+                  "y":250},
+                "size":{
+                  "width":298,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/钱包充值/u10.png"}},
+{
+          "id":"bfc6887fcb3348bbbb30aaf1193c1ee8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":60,
+              "y":540},
+            "size":{
+              "width":298,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"99548a7876a147c5bb564fbb710f7bca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":60,
+                  "y":540},
+                "size":{
+                  "width":298,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/钱包充值/u10.png"}},
+{
+          "id":"ac9a7e7152534cb0b95442c64da8fe5e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":60,
+              "y":320},
+            "size":{
+              "width":298,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e3ad906f1b244e5b9a96e6b36db26bc7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":60,
+                  "y":320},
+                "size":{
+                  "width":298,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/钱包充值/u14.png"}},
+{
+          "id":"da592ec240c64763bf276d29a0578c7f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":60,
+              "y":410},
+            "size":{
+              "width":298,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e68c201525cb424eac5d8103ea6c862f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":60,
+                  "y":410},
+                "size":{
+                  "width":298,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/钱包充值/u16.png"}},
+{
+          "id":"abfc2ae526fb47b2a070952ccafe7e41",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "location":{
+              "x":60,
+              "y":470},
+            "size":{
+              "width":298,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"af87bcf4df6841f9ab6192f69087a63f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "location":{
+                  "x":60,
+                  "y":470},
+                "size":{
+                  "width":298,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f8f6526d84124d8dbb597da63c022d18":{
+      "scriptId":"u0"},
+    "90a8a30340a14f0db83c08b2550da817":{
+      "scriptId":"u1"},
+    "d45ea4db93df4bab97cb2be819b5d7e4":{
+      "scriptId":"u2"},
+    "9354e9bbda8f4bff9a213f55033b823c":{
+      "scriptId":"u3"},
+    "29b9bf9bc46b4a0ba872c178e3beb1e0":{
+      "scriptId":"u4"},
+    "b1438decceaa49f09d2fc5c4f9b3e8dc":{
+      "scriptId":"u5"},
+    "fcccb2484cb94f58ab4bf5289f6764a0":{
+      "scriptId":"u6"},
+    "f58d639689454ffc853aef0a44136804":{
+      "scriptId":"u7"},
+    "46823a101da64af29bcd3bbd9457e2ba":{
+      "scriptId":"u8"},
+    "dc066298fddd45868d65f62360d38443":{
+      "scriptId":"u9"},
+    "26d0243b913e4d008f3562656facfd55":{
+      "scriptId":"u10"},
+    "98dc8a9f32654310b3085610bc34d7c7":{
+      "scriptId":"u11"},
+    "bfc6887fcb3348bbbb30aaf1193c1ee8":{
+      "scriptId":"u12"},
+    "99548a7876a147c5bb564fbb710f7bca":{
+      "scriptId":"u13"},
+    "ac9a7e7152534cb0b95442c64da8fe5e":{
+      "scriptId":"u14"},
+    "e3ad906f1b244e5b9a96e6b36db26bc7":{
+      "scriptId":"u15"},
+    "da592ec240c64763bf276d29a0578c7f":{
+      "scriptId":"u16"},
+    "e68c201525cb424eac5d8103ea6c862f":{
+      "scriptId":"u17"},
+    "abfc2ae526fb47b2a070952ccafe7e41":{
+      "scriptId":"u18"},
+    "af87bcf4df6841f9ab6192f69087a63f":{
+      "scriptId":"u19"}}});

@@ -1,0 +1,206 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/index.css" rel="stylesheet" type="text/css"/>
+<link href="css/boss.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/index.js"></script>
+<style type="text/css">
+.pagemiddle
+{
+	height: 850px;
+}
+.pagemiddle h2, .pagemiddle p
+{
+	text-align: left;
+	padding: 0px 15px;
+}
+.pagemiddletop h2
+{
+	padding: 0px;
+}
+.pagemiddle .showimagewrap
+{
+	float: left;
+	left: 20px;
+	width: 450px;
+	height: 400px;
+	margin-top: 20px;
+	border: solid 1px #E5E6E6;
+}
+.pagemiddle .showimagewrap .previous, .pagemiddle .showimagewrap .previousactive
+{
+	position: absolute;
+	left: 20px;
+	top: 170px;
+	width: 42px;
+	height: 43px;
+	cursor: pointer;
+}
+.pagemiddle .showimagewrap .previous
+{
+	background-image: url(image/mallprevious.png);
+}
+.pagemiddle .showimagewrap .previousactive
+{
+	background-image: url(image/mallpreviousactive.png);
+}
+.pagemiddle .showimagewrap .next, .pagemiddle .showimagewrap .nextactive
+{
+	position: absolute;
+	left: 388px;
+	top: 170px;
+	width: 42px;
+	height: 43px;
+	cursor: pointer;
+}
+.pagemiddle .showimagewrap .next
+{
+	background-image: url(image/mallnext.png);
+}
+.pagemiddle .showimagewrap .nextactive
+{
+	background-image: url(image/mallnextactive.png);
+}
+.pagemiddle .showimagewrap .ul
+{
+	position: absolute;
+	left: 50px;
+	top: 25px;
+	width: 350px;
+	height: 350px;
+}
+.pagemiddle .showimagewrap .ul div
+{
+	width: 350px;
+	height: 350px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.pagemiddle .showimagewrap .ol1
+{
+	background-image: url(image/mallol1.png);
+}
+.pagemiddle .showimagewrap .ol2
+{
+	background-image: url(image/mallol2.png);
+}
+.pagemiddle .showimagewrap .ol3
+{
+	background-image: url(image/mallol3.png);
+}
+.pagemiddle .showimagewrap .ol4
+{
+	background-image: url(image/mallol4.tif);
+}
+.pagemiddle .showimagewrap .ul .hidden
+{
+	display: none;
+}
+.pagemiddle .buywrap
+{
+	float: right;
+	width: 450px;
+	height: 130px;
+	margin: 20px 0px;
+	background-image: url(image/buywrap.png);
+	background-repeat: no-repeat;
+	background-position: 20px 0px;
+}
+.pagemiddle .buyDescription
+{
+	float: right;
+	width: 450px;
+	height: 200px;
+}
+</style>
+<script>
+var currentImageIndex = 1;
+var imageCount = 3;
+function NextImage()
+{
+	currentImageIndex++;
+	if(currentImageIndex > imageCount) currentImageIndex = 1;
+	ShowImage();
+}
+function PreviousImage()
+{
+	currentImageIndex--;
+	if(currentImageIndex <= 0) currentImageIndex = imageCount;
+	ShowImage();
+}
+function ShowImage()
+{
+	for(var i = 1; i <= imageCount; i++)
+	{
+		document.getElementById('hdivimageslide' + i).className = 'ol' + i + ' hidden';
+	}
+	document.getElementById('hdivimageslide' + currentImageIndex).className = 'ol' + currentImageIndex;
+}
+</script>
+</head>
+<body>
+	<div class="pagetop">
+		<a href="index.html"><div class="logo"></div></a>
+		<div class="index" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="index.html">首页</a></div>
+		<div class="company" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">关于公司
+			<div class="ul">
+				<div class="ol"><a href="boss.html">总裁寄语</a></div>
+				<div class="ol"><a href="company.html">公司介绍</a></div>
+				<div class="ol"><a href="structure.html">组织架构</a></div>
+				<div class="ol"><a href="salenet.html">营销网络</a></div>
+				<div class="ol"><a href="security.html">安全资质</a></div>
+				<div class="ol"><a href="partner.html">合作伙伴</a></div>
+				<div class="ol"><a href="culture.html">企业文化</a></div>
+				<div class="ol"><a href="contact.html">联系我们</a></div>
+			</div>
+		</div>
+		<div class="product" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">产品介绍
+			<div class="ul">
+				<div class="ol"><a href="business.html">主营业务</a></div>
+				<div class="ol"><a href="wallet.html">通付宝钱包</a></div>
+				<div class="ol"><a href="cardreader.html">手机刷卡器</a></div>
+			</div>
+		</div>
+		<div class="download" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="download.html">应用下载</a></div>
+		<div class="mall current" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="mall.html">在线商城</a></div>
+		<div class="agent" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="agent.html">加盟代理</a></div>
+		<div class="user" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="user.html">用户中心</a></div>
+		<div class="joinus" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="joinus.html">人才招聘</a></div>
+		<div class="search"></div>
+		<div class="clear"></div>
+	</div>
+	<div class="pagetopbottom"></div>
+	<div class="pagemiddle">
+		<div class="pagemiddletop"><h2>在线商城</h2></div>
+		<img src="image/mall.png" />
+		<div class="showimagewrap">
+			<div class="previous" onmouseout="this.className='previous'"  onmouseover="this.className='previousactive'" onclick="PreviousImage();"></div>
+			<div class="next" onmouseout="this.className='next'"  onmouseover="this.className='nextactive'" onclick="NextImage();"></div>
+			<div class="ul">
+				<div id="hdivimageslide1" class="ol1"></div>
+				<div id="hdivimageslide2" class="ol2 hidden"></div>
+				<div id="hdivimageslide3" class="ol3 hidden"></div>
+				<div id="hdivimageslide4" class="ol4 hidden"></div>
+			</div>
+		</div>
+		<div class="buywrap">
+		</div>
+		<div class="buyDescription">
+			<h2>银联平台，多能专属</h2>
+			<p>通付宝手机刷卡器以中国银联为主要结算通道，支持国内各大银行的银联磁条卡（含信用卡、借记卡等各类卡），外接智能苹果或安卓系统智能手机或设备，即可刷卡，实现转账汇款、还款还贷、查询余额等移动金融业务，以及话费充值、生活缴费、优惠兑换等移动支付和优惠功能。</p><br>
+			<h2>小巧时尚，便捷随行</h2>
+			<p>通付宝手机刷卡器小巧美观、时尚造型，大小体积不超过一般手机的五分之一，随身携带方便，需要使用时只需插入手机耳机孔，进入通付宝钱包APP界面，即可刷卡、实现更多金融及支付功能。</p><br>
+			<h2>央行监控，安全无忧</h2>
+			<p>通付宝手机刷卡器获中国人民银行认证和监管，各项金融及支付服务合法合规；机器上市前已历经上万次测试，精工品质、领先技术，刷卡成功率高达99%；磁密结合、一机一密、一次一密，最大限度确保交易安全、顺畅、快捷。</p>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="pagebottom">
+		全国客服热线：400-6868-956 / 腾讯公众微信：tfbpay
+		<br>
+		网站地图 | 帮助中心 | 联系我们
+		<br>
+		通付宝网络技术有限公司@2014版权所有
+	</div>
+</body>
+</html>

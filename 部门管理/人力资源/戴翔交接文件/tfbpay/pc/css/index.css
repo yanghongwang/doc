@@ -1,0 +1,296 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 14px;
+}
+h2
+{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #797675;
+}
+a:link, a:visited, a:hover, a:active
+{
+	color: #797675;
+	text-decoration: none;
+}
+div
+{
+	position: relative;
+}
+body
+{
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+}
+.clear
+{
+	clear: both;
+}
+.pagetop
+{
+	width: 940px;
+	height: 75px;
+	margin: 0px auto;
+	z-index: 10;
+}
+.pagetop .logo
+{
+	position: relative;
+	float: left;
+	width: 95px;
+	height: 75px;
+	line-height: 75px;
+	margin-right: 35px;
+	background-image: url(../image/logo.png);
+	cursor: pointer;
+}
+.pagetop .index, .pagetop .company, .pagetop .product, .pagetop .download, .pagetop .mall, .pagetop .agent, .pagetop .user, .pagetop .joinus
+{
+	position: relative;
+	float: left;
+	width: 80px;
+	height: 75px;
+	line-height: 75px;
+	text-align: center;
+	color: #797675;
+}
+.pagetop .index a, .pagetop .download a, .pagetop .mall a, .pagetop .agent a, .pagetop .user a, .pagetop .joinus a
+{
+	line-height: 75px;
+}
+.pagetop .ul
+{
+	display: none;
+}
+.pagetop .active
+{
+	height: 75px;
+	background-color: #f7ac19;
+	background-image: url(../image/pagetopactive.png);
+	background-repeat: no-repeat;
+	background-position: 35px 55px;
+}
+.pagetop .active, .pagetop .active a, .pagetop .current, .pagetop .current a
+{
+	color: #ffffff;
+}
+.pagetop .index, .pagetop .download, .pagetop .mall, .pagetop .agent, .pagetop .user, .pagetop .joinus
+{
+	background-image: none;
+}
+.pagetop .current
+{
+	background-color: #f7ac19;
+}
+.pagetop .active .ul
+{
+	position: absolute;
+	top: 75px;
+	left: 0px;
+	width: 80px;
+	padding: 8px 0px 2px 0px;
+	background-image: url(../image/activeul.png);
+	display: block;
+}
+.pagetop .active .ul a
+{
+	color: #797675;
+}
+.pagetop .company .ul
+{
+	height: 198px;
+}
+.pagetop .product .ul
+{
+	height: 66px;
+}
+.pagetop .active .ul .ol
+{
+	width: 80px;
+	height: 22px;
+	line-height: 22px;
+}
+.pagetop .search
+{
+	float: right;
+	width: 147px;
+	height: 77px;
+	background-image: url(../image/phone.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+.pagetopbottom
+{
+	width: 100%;
+	height: 1px;
+	background-color: #E5E6E6;
+	overflow: hidden;
+	z-index: 8;
+}
+.imagewrap
+{
+	width: 100%;
+	z-index: 10;
+}
+.adimage
+{
+	padding-bottom: 8px;
+	background-image: url(../image/adimagebackground.jpg);
+	background-position: bottom;
+	z-index: 8;
+}
+.adimage img
+{
+	margin: 0px auto;
+}
+.adimage .quickindex
+{
+	position: absolute;
+	left: 0px;
+	bottom: 20px;
+	width: 100%;
+	height: 10px;
+	z-index: 18;
+}
+.adimage .quickindex .ul
+{
+	height: 10px;
+	margin: auto;
+	padding-left: 10px;
+}
+.adimage .quickindex .ol
+{
+	float: left;
+	width: 10px;
+	height: 10px;
+	margin-right: 10px;
+	background-color: white;
+	cursor: pointer;
+}
+.pagemiddle
+{
+	width: 1030px;
+	margin: 0px auto;
+	z-index: 8;
+}
+.pagemiddle .applist
+{
+	float: left;
+	width: 500px;
+	height: 155px;
+	background-image: url(../image/applist.jpg);
+}
+.pagemiddle .downapp
+{
+	float: right;
+	width: 500px;
+	height: 155px;
+	background-image: url(../image/downapp.jpg);
+}
+.pagemiddle .downapp .downmall
+{
+	position: absolute;
+	left: 0px;
+	top: 10px;
+	width: 130px;
+	height: 130px;
+	cursor: pointer;
+}
+.pagemiddle .downapp .iphone
+{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	width: 130px;
+	height: 50px;
+	cursor: pointer;
+}
+.pagemiddle .downapp .android
+{
+	position: absolute;
+	right: 20px;
+	top: 75px;
+	width: 130px;
+	height: 50px;
+	cursor: pointer;
+}
+.pagemiddle .trend
+{
+	float: left;
+	width: 500px;
+	height: 125px;
+}
+.pagemiddle .announcement
+{
+	float: right;
+	width: 500px;
+	height: 155px;
+}
+.pagemiddle .trend .heading, .pagemiddle .announcement .heading
+{
+	width: 500px;
+	height: 20px;
+	background-color: #cacaca;
+	text-align: left;
+}
+.pagemiddle .trend .title, .pagemiddle .announcement .title
+{
+	width: 100px;
+	height: 20px;
+	line-height: 20px;
+	background-color: #1d7ac2;
+	color: #fcfdfe;
+	text-align: center;
+}
+.pagemiddle .trend .more, .pagemiddle .announcement .more
+{
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	height: 20px;
+	line-height: 20px;
+	padding-right: 10px;
+	color: #7b7b7b;
+	text-align: center;
+}
+.pagemiddle .trend .ul, .pagemiddle .announcement .ul
+{
+	width: 500px;
+	height: 100px;
+	margin-bottom: 30px;
+	text-align: left;
+}
+.pagemiddle .trend .ol, .pagemiddle .announcement .ol
+{
+	width: 480px;
+	padding-left: 20px;
+	height: 25px;
+	line-height: 35px;
+	background-image: url(../image/trendol.png);
+	background-repeat: no-repeat;
+	background-position: 0px 7px;
+	border-bottom: solid 1px #E5E6E6;
+}
+.pagemiddle .trend .ol, .pagemiddle .announcement .ol, .pagemiddle .trend .ol a, .pagemiddle .announcement .ol a
+{
+	color: #797675;
+}
+.pagebottom
+{
+	width: 100%;
+	height: 60px;
+	line-height: 22px;
+	padding: 10px 0px;
+	text-align: center;
+	color: #797675;
+	background-color:#dfdfdf;
+	z-index: 15;
+}
+.pagebottom, .pagebottom a
+{
+	font-size: 11px;
+}

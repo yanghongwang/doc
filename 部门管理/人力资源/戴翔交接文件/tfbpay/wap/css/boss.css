@@ -1,0 +1,82 @@
+.pagemiddle
+{
+	width: 940px;
+	text-align: center;
+}
+.pagemiddletop
+{
+	width: 930px;
+	height: 20px;
+	line-height: 20px;
+	margin: 0px auto 20px auto;
+	padding: 40px 0px 10px 10px;
+	border-bottom: solid 1px #E5E6E6;
+	text-align: left;
+	z-index: 6;
+}
+.pagemiddleleft
+{
+	float: left;
+	width: 140px;
+	margin-bottom: 100px;
+	text-align: left;
+}
+.pagemiddleleft .ol
+{
+	width: 120px;
+	height: 20px;
+	line-height: 20px;
+	padding: 10px 0px 5px 10px;
+	border-bottom: solid 1px #E5E6E6;
+}
+.pagemiddleleft .current
+{
+	background-color: #00a0e9;
+}
+.pagemiddleleft .active
+{
+	background-color: #c9c9ca;
+}
+.pagemiddleleft .current a
+{
+	font-size: 14px;
+	color: #ffffff;
+}
+.pagemiddleleft .active a
+{
+	font-size: 14px;
+	color: #ffffff;
+}
+.pagemiddleright
+{
+	float: right;
+	width: 600px;
+	margin-bottom: 100px;
+	padding-right: 150px;
+	text-align: left;
+}
+.pagemiddleright img
+{
+	margin-bottom: 20px;
+}
+.pagemiddleright h2
+{
+	width: 580px;
+	padding: 10px;
+}
+.pagemiddleright h2, .pagemiddle h2
+{
+	color: #797675;
+	font-size: 16px;
+}
+.pagemiddleright p
+{
+	width: 595px;
+	padding: 0px 0px 0px 5px;
+	line-height: 22px;
+}
+.pagemiddleright p, .pagemiddle p
+{
+	font-size: 14px;
+	color: #717071;
+}

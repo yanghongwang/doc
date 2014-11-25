@@ -1,0 +1,150 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:993px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:196px;
+  top:91px;
+  width:393px;
+  height:593px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:393px;
+  height:593px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:288px;
+  width:389px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:196px;
+  top:348px;
+  width:393px;
+  height:336px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:394px;
+  height:337px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:160px;
+  width:389px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:219px;
+  top:518px;
+  width:359px;
+  height:32px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:33px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:359px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:285px;
+  top:375px;
+  width:213px;
+  height:35px;
+}
+#u6_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:213px;
+  height:35px;
+  background-image:url(../../resources/images/transparent.gif);
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u6_input {
+  font-family:'应用字体';
+}
+#u7 {
+  position:absolute;
+  left:285px;
+  top:432px;
+  width:213px;
+  height:35px;
+}
+#u7_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:213px;
+  height:35px;
+  background-image:url(../../resources/images/transparent.gif);
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u7_input {
+  font-family:'应用字体';
+}
+#u8 {
+  position:absolute;
+  left:655px;
+  top:130px;
+  width:338px;
+  height:32px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:339px;
+  height:33px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:338px;
+  word-wrap:break-word;
+}

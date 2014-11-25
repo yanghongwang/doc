@@ -1,0 +1,7 @@
+支付通道——易宝：
+http://www.yeepay.com/
+yjdark@21cn.com       tfbpay
+
+欧飞：
+http://api.ofpay.com/
+tfbao                 tfbao20140603

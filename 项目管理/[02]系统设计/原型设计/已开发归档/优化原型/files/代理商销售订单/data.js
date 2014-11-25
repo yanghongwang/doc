@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"代理商销售订单.html",
+  "generationDate":new Date(1399184858740.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"85948c5ec6e74d9a8877bd0f4d580be2",
+    "type":"Axure:Page",
+    "name":"代理商销售订单",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3fe5a5151a4348c19c442cc9781e5257",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":70},
+            "size":{
+              "width":200,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"09bb66ff3d684de3ae032baa1831079b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":40,
+                  "y":70},
+                "size":{
+                  "width":200,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/认证注册（基础设定）/u18.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3fe5a5151a4348c19c442cc9781e5257":{
+      "scriptId":"u0"},
+    "09bb66ff3d684de3ae032baa1831079b":{
+      "scriptId":"u1"}}});

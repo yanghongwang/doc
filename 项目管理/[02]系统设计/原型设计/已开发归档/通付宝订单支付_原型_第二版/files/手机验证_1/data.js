@@ -1,0 +1,318 @@
+﻿$axure.loadCurrentPage({
+  "url":"手机验证_1.html",
+  "generationDate":new Date(1411119109328.13),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c6b3f6f0dbee4c7b8963c29fd4591b8d",
+    "type":"Axure:Page",
+    "name":"手机验证",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e789a7f6a1aa4a4a8b81f8b5854c7b06",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":390,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"78f04da580104502892d6e615f97b95a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":390,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝订单支付/u0.png"}},
+{
+          "id":"aa3872034d0d4039b25fabeb9ee2fc68",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4a1da82102394f6fb29048024b90e077",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝订单支付/u2.png"}},
+{
+          "id":"3f087b1c90d04953b2116b533e590d85",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":138,
+              "y":193},
+            "size":{
+              "width":164,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"279518412f6040e399bb476ab4d8c82c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":138,
+                  "y":193},
+                "size":{
+                  "width":164,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"afc5747d6e5e4fbd8ca98490072aeade",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":70,
+              "y":240},
+            "size":{
+              "width":310,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8be92bf0a9e74543bc8403a56417b0d3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":70,
+                  "y":240},
+                "size":{
+                  "width":310,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/手机验证/u6.png"}},
+{
+          "id":"fd0ad1b0d839473b8536bba4fe6fdf81",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":95,
+              "y":330},
+            "size":{
+              "width":260,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"91f3fa611cbb49b5ab9ae29e5bf0f352",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":95,
+                  "y":330},
+                "size":{
+                  "width":260,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 支付完成",
+                      "target":{
+                        "targetType":"page",
+                        "url":"支付完成.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/通付宝订单支付/u6.png"}},
+{
+          "id":"25e119f6ae2a493283b3128827c83445",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":70,
+              "y":200},
+            "size":{
+              "width":40,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6646bf94682b463fa2d14e5aefe9457b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":70,
+                  "y":200},
+                "size":{
+                  "width":40,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 信用卡支付",
+                      "target":{
+                        "targetType":"page",
+                        "url":"信用卡支付.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/手机验证/u10.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e789a7f6a1aa4a4a8b81f8b5854c7b06":{
+      "scriptId":"u0"},
+    "78f04da580104502892d6e615f97b95a":{
+      "scriptId":"u1"},
+    "aa3872034d0d4039b25fabeb9ee2fc68":{
+      "scriptId":"u2"},
+    "4a1da82102394f6fb29048024b90e077":{
+      "scriptId":"u3"},
+    "3f087b1c90d04953b2116b533e590d85":{
+      "scriptId":"u4"},
+    "279518412f6040e399bb476ab4d8c82c":{
+      "scriptId":"u5"},
+    "afc5747d6e5e4fbd8ca98490072aeade":{
+      "scriptId":"u6"},
+    "8be92bf0a9e74543bc8403a56417b0d3":{
+      "scriptId":"u7"},
+    "fd0ad1b0d839473b8536bba4fe6fdf81":{
+      "scriptId":"u8"},
+    "91f3fa611cbb49b5ab9ae29e5bf0f352":{
+      "scriptId":"u9"},
+    "25e119f6ae2a493283b3128827c83445":{
+      "scriptId":"u10"},
+    "6646bf94682b463fa2d14e5aefe9457b":{
+      "scriptId":"u11"}}});

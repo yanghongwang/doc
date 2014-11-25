@@ -1,0 +1,184 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #797675;
+}
+h1
+{
+	font-size: 2em;
+	font-weight: bold;
+}
+h2
+{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+a:link, a:visited, a:hover, a:active
+{
+	text-decoration: none;
+}
+div
+{
+	position: relative;
+}
+body
+{
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+}
+.clear
+{
+	clear: both;
+}
+.pagetop
+{
+	width: 100%;
+	height: 55px;
+	margin: 0px auto;
+	z-index: 10;
+}
+.pagetop .logo
+{
+	float: left;
+	width: 25%;
+	cursor: pointer;
+}
+.pagetop .logo img
+{
+	max-height: 55px;
+	width: 70%;
+}
+.pagetop .navigation
+{
+	float: right;
+	width: 75%;
+}
+.pagetop .index, .pagetop .company, .pagetop .product, .pagetop .download
+{
+	float: left;
+	width: 70px;
+	height: 55px;
+	line-height: 55px;
+	padding: 0px 5px;
+	text-align: center;
+	color: #797675;
+}
+.pagetop .ul
+{
+	display: none;
+}
+.pagetop .active
+{
+	height: 55px;
+	background-color: #f7ac19;
+}
+.pagetop .active, .pagetop .active a, .pagetop .current, .pagetop .current a
+{
+	color: #ffffff;
+}
+.pagetop .current
+{
+	background-color: #f7ac19;
+}
+.pagetop .active .ul
+{
+	position: absolute;
+	top: 55px;
+	left: 0px;
+	width: 100%;
+	padding: 8px 0px 2px 0px;
+	background-image: url(../image/activeul.png);
+	display: block;
+}
+.pagetop .active .ul a
+{
+	color: #797675;
+}
+.pagetop .company .ul
+{
+	height: 44px;
+}
+.pagetop .active .ul .ol
+{
+	width: 100%;
+	height: 22px;
+	line-height: 22px;
+}
+.pagetopbottom
+{
+	width: 100%;
+	height: 1px;
+	background-color: #E5E6E6;
+	overflow: hidden;
+	z-index: 8;
+}
+.adimage
+{
+	min-height: 100px;
+	padding-bottom: 8px;
+	background-image: url(../image/adimagebackground.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	z-index: 8;
+	text-align: center;
+}
+.adimage img
+{
+	margin: 0px auto;
+}
+.pagemiddle
+{
+	width: 100%;
+	margin: 0px auto;
+	z-index: 8;
+}
+.pagemiddle .applist
+{
+	width: 100%;
+}
+.pagemiddle .downapp
+{
+	width: 100%;
+}
+.pagemiddle .downapp .iphone
+{
+	position: absolute;
+	right: 14%;
+	top: 13%;
+	width: 35%;
+	height: 33%;
+}
+.pagemiddle .downapp .android
+{
+	position: absolute;
+	right: 14%;
+	top: 56%;
+	width: 35%;
+	height: 33%;
+}
+.pagemiddle .article
+{
+	padding: 20px;
+	text-align: left;
+}
+.pagemiddle .article h1, .pagemiddle .article h2
+{
+	margin: 10px 0px;
+}
+.pagemiddle .article p
+{
+	color: #717071;
+}
+.pagebottom
+{
+	width: 100%;
+	line-height: 22px;
+	padding: 10px 0px;
+	text-align: center;
+	color: #797675;
+	background-color:#dfdfdf;
+}

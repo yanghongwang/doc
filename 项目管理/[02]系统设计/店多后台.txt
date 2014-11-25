@@ -1,0 +1,13 @@
+店多：
+http://www.papersystem.cn/tfb/login/login.html
+http://123.103.23.190/tfb/login/login.html
+————————————————————————————————
+日志：http://www.tfbpay.cn/mslogfile.php
+数据库：http://www.tfbpay.cn/msbakfile.php
+后台数据库管理：http://www.tfbpay.cn/kenkai/nice/phpMyAdmin/
+————————————————————————————————
+正式环境：
+http://www.tfbpay.cn/mobilepay/admin/login/login.html
+测试环境：
+http://www.tfbpay.cn/tfb_test/admin/login/login.html
+http://www.tfbpay.cn/tfb_test/demo/

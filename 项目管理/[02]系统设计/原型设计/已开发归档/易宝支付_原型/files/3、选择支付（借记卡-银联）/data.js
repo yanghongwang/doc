@@ -1,0 +1,478 @@
+﻿$axure.loadCurrentPage({
+  "url":"3、选择支付（借记卡-银联）.html",
+  "generationDate":new Date(1407924517000),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"977ee008760042a095019b01236b915d",
+    "type":"Axure:Page",
+    "name":"3、选择支付（借记卡-银联）",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"67612faf1e134d528093258dc00c7bea",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":26},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0d4486e373f1492eb45273818ebd461a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":26},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/话费充值/u0.png"}},
+{
+          "id":"bb7d1c9db19045c996daf88e58a9ec34",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":178},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3b3706db48e44c28b3afd66b93b41a74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":178},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/话费充值/u2.png"}},
+{
+          "id":"5fe65e9fd60d40b6954ee0c4f5ba939e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"92871db1b04b4037a46cdb2fe68dc2c5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/话费充值/u4.png"}},
+{
+          "id":"868fda5a97dc40929d52044a4bff6058",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":62,
+              "y":234},
+            "size":{
+              "width":298,
+              "height":306}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"70b343f085254d5dbe6b3e86f815cd41",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":62,
+                  "y":234},
+                "size":{
+                  "width":298,
+                  "height":306}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1、选择支付（默认支付）/u6.png"}},
+{
+          "id":"be4d156bc8674c369c3c35424d644e13",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":150,
+              "y":182},
+            "size":{
+              "width":168,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"58bc5f40ba0c4d2692287d57e483bdd6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":150,
+                  "y":182},
+                "size":{
+                  "width":168,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bfcdb1876b4848fa9dde9a1938a02b4f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":165,
+              "y":570},
+            "size":{
+              "width":90,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e7a92fac758d4cb5af51970be139a23d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":165,
+                  "y":570},
+                "size":{
+                  "width":90,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 银联支付（借记卡）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"银联支付（借记卡）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/话费充值/u8.png"}},
+{
+          "id":"0ce7f24038464710ba61596ef1c21438",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":190,
+              "y":472},
+            "size":{
+              "width":120,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df9e216255cf4cefbe1991f16f963b0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":190,
+                  "y":472},
+                "size":{
+                  "width":120,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的银行卡",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的银行卡.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1、选择支付（默认支付）/u12.png"}},
+{
+          "id":"53ebc492b8334924886fdc351f34be17",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":414},
+            "size":{
+              "width":19,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"046bd5d4cebc4defa289903209310d33",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":414},
+                "size":{
+                  "width":19,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"9108e1bc2e6548d3a27d5ea3f49ac624",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":474},
+            "size":{
+              "width":19,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"018497594ae1466c8e3b419551bc1d8c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":474},
+                "size":{
+                  "width":19,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d52f7c977fbc4c8f9164e281b211e8f6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":450,
+              "y":352},
+            "size":{
+              "width":230,
+              "height":158}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"56e3646ce6654ea8bc5c049cab447d69",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":450,
+                  "y":352},
+                "size":{
+                  "width":230,
+                  "height":158}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2、选择支付（信用卡-易宝）/u18.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "67612faf1e134d528093258dc00c7bea":{
+      "scriptId":"u0"},
+    "0d4486e373f1492eb45273818ebd461a":{
+      "scriptId":"u1"},
+    "bb7d1c9db19045c996daf88e58a9ec34":{
+      "scriptId":"u2"},
+    "3b3706db48e44c28b3afd66b93b41a74":{
+      "scriptId":"u3"},
+    "5fe65e9fd60d40b6954ee0c4f5ba939e":{
+      "scriptId":"u4"},
+    "92871db1b04b4037a46cdb2fe68dc2c5":{
+      "scriptId":"u5"},
+    "868fda5a97dc40929d52044a4bff6058":{
+      "scriptId":"u6"},
+    "70b343f085254d5dbe6b3e86f815cd41":{
+      "scriptId":"u7"},
+    "be4d156bc8674c369c3c35424d644e13":{
+      "scriptId":"u8"},
+    "58bc5f40ba0c4d2692287d57e483bdd6":{
+      "scriptId":"u9"},
+    "bfcdb1876b4848fa9dde9a1938a02b4f":{
+      "scriptId":"u10"},
+    "e7a92fac758d4cb5af51970be139a23d":{
+      "scriptId":"u11"},
+    "0ce7f24038464710ba61596ef1c21438":{
+      "scriptId":"u12"},
+    "df9e216255cf4cefbe1991f16f963b0b":{
+      "scriptId":"u13"},
+    "53ebc492b8334924886fdc351f34be17":{
+      "scriptId":"u14"},
+    "046bd5d4cebc4defa289903209310d33":{
+      "scriptId":"u15"},
+    "9108e1bc2e6548d3a27d5ea3f49ac624":{
+      "scriptId":"u16"},
+    "018497594ae1466c8e3b419551bc1d8c":{
+      "scriptId":"u17"},
+    "d52f7c977fbc4c8f9164e281b211e8f6":{
+      "scriptId":"u18"},
+    "56e3646ce6654ea8bc5c049cab447d69":{
+      "scriptId":"u19"}}});

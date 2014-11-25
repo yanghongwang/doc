@@ -1,0 +1,323 @@
+﻿$axure.loadCurrentPage({
+  "url":"机票酒店预定.html",
+  "generationDate":new Date(1403662782671.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"54803db26fb942709820a206d19f0efc",
+    "type":"Axure:Page",
+    "name":"机票酒店预定",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"05ece87069814fcc918c70547972ec88",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":800},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3077a20b69a14622a12d3afae22fe60b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":800},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u0.png"}},
+{
+          "id":"e8b8f4a1c3a046caa841260dd4f6d6c5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":63,
+              "y":137},
+            "size":{
+              "width":320,
+              "height":16},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d8180e2b3d7f4e72b0f1ba44626a33c4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":63,
+                  "y":137},
+                "size":{
+                  "width":320,
+                  "height":16},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u2.png"}},
+{
+          "id":"6487826ca6c343c7af2eb234d6d07d67",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":63,
+              "y":158},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dea5901fff634cc78d9ae0779033d8eb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":63,
+                  "y":158},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u4.png"}},
+{
+          "id":"92fc00a4ce2046edaa64ca603d3955f7",
+          "label":"text - h2",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"21px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":190,
+              "y":168},
+            "size":{
+              "width":85,
+              "height":25},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea4084b2ceb5451d9b0cab83186b844b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"21px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":190,
+                  "y":168},
+                "size":{
+                  "width":85,
+                  "height":25},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a8a9c42b34b440d8b6edc3676f2283a5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":90,
+              "y":240},
+            "size":{
+              "width":110,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e80d544602a438caa617c6940b0acf7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":90,
+                  "y":240},
+                "size":{
+                  "width":110,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 机票预定",
+                      "target":{
+                        "targetType":"page",
+                        "url":"机票预定.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/机票酒店预定/u8.png"}},
+{
+          "id":"fdac18e36c57448d83a2b86e7af96db0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":240,
+              "y":240},
+            "size":{
+              "width":110,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6a90eceffd6f4393b268863372d54f17",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":240,
+                  "y":240},
+                "size":{
+                  "width":110,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/机票酒店预定/u8.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "05ece87069814fcc918c70547972ec88":{
+      "scriptId":"u0"},
+    "3077a20b69a14622a12d3afae22fe60b":{
+      "scriptId":"u1"},
+    "e8b8f4a1c3a046caa841260dd4f6d6c5":{
+      "scriptId":"u2"},
+    "d8180e2b3d7f4e72b0f1ba44626a33c4":{
+      "scriptId":"u3"},
+    "6487826ca6c343c7af2eb234d6d07d67":{
+      "scriptId":"u4"},
+    "dea5901fff634cc78d9ae0779033d8eb":{
+      "scriptId":"u5"},
+    "92fc00a4ce2046edaa64ca603d3955f7":{
+      "scriptId":"u6"},
+    "ea4084b2ceb5451d9b0cab83186b844b":{
+      "scriptId":"u7"},
+    "a8a9c42b34b440d8b6edc3676f2283a5":{
+      "scriptId":"u8"},
+    "8e80d544602a438caa617c6940b0acf7":{
+      "scriptId":"u9"},
+    "fdac18e36c57448d83a2b86e7af96db0":{
+      "scriptId":"u10"},
+    "6a90eceffd6f4393b268863372d54f17":{
+      "scriptId":"u11"}}});

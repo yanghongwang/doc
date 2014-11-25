@@ -1,0 +1,1215 @@
+﻿$axure.loadCurrentPage({
+  "url":"新增默认收款账户.html",
+  "generationDate":new Date(1415177479796.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ab343000688946bfa27c6f2234d6749e",
+    "type":"Axure:Page",
+    "name":"新增默认收款账户",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d9eaaf20a16f48468d5642c958660409",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "size":{
+              "width":660,
+              "height":1160}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d63fd04842fa4378bc5795518758e957",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "size":{
+                  "width":660,
+                  "height":1160}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页面/u0.png"}},
+{
+          "id":"769593e1a35e4d218e7a6ad45d2f6ac2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":640,
+              "height":1136}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ac4f327c16e948948572f1e9ba63a6a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":640,
+                  "height":1136}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页面/u2.png"}},
+{
+          "id":"c28cb6f51f86491fb20d360993946914",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":20},
+            "size":{
+              "width":640,
+              "height":30},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7df5a56671744ee58cd1aabf858af520",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":20},
+                "size":{
+                  "width":640,
+                  "height":30},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/业务页背景/u4.png"}},
+{
+          "id":"206dd22f0a134776954c2f55403de961",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":70},
+            "size":{
+              "width":45,
+              "height":60},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"61deb5cdbc7e49f9a7eb9eaa815d3d1d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":23,
+                  "y":70},
+                "size":{
+                  "width":45,
+                  "height":60},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/业务页背景/u6.png"}},
+{
+          "id":"466f12de1af541459dad37eb0a740eba",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"48px",
+            "location":{
+              "x":217,
+              "y":72},
+            "size":{
+              "width":241,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"13a5d42bfe4f4e909525f29f8203347e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"48px",
+                "location":{
+                  "x":217,
+                  "y":72},
+                "size":{
+                  "width":241,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"748211e4eece4bbba668709a95cbad08",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":140},
+            "size":{
+              "width":607,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/业务页背景/u10_line.png"}},
+{
+          "id":"9191bc1027cb4af8ad97795434afa9e8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":150},
+            "size":{
+              "width":608,
+              "height":44},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f8ddb1aa25fc4d7e8e954df96f5dc5e8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":23,
+                  "y":150},
+                "size":{
+                  "width":608,
+                  "height":44},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 账户设定 to 储蓄卡 向右滑动 in 500ms",
+                      "panelsToStates":[{
+                          "panelPath":["bc03b3c6326e4b5693f295ab44dce1c1"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "animateIn":{
+                                "easing":"slideRight",
+                                "duration":500},
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/新增默认收款账户/u11.png"}},
+{
+          "id":"74c61e6ce92143d7abf9a53692ac2dad",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":1138,
+              "y":219},
+            "size":{
+              "width":188,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"99a688174c4b4e0a8d19f000a20b6fd4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":1138,
+                  "y":219},
+                "size":{
+                  "width":188,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4777de37321c4d7ebf33dee4075dacef",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"28px",
+            "fontWeight":"700",
+            "location":{
+              "x":118,
+              "y":153},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"573aaf463f71442586879314bfd66d5c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"28px",
+                "fontWeight":"700",
+                "location":{
+                  "x":118,
+                  "y":153},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1e66f6bbac87400089983c9d08510102",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"28px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":430,
+              "y":153},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b862645527244eaa88f3a28a4fea340",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"28px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":430,
+                  "y":153},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"249d7c06de124da08cf8d7700297c2a6",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"28px",
+            "fontWeight":"700",
+            "location":{
+              "x":23,
+              "y":750},
+            "size":{
+              "width":607,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 业务页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"业务页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"bc03b3c6326e4b5693f295ab44dce1c1",
+          "label":"账户设定",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":194},
+            "size":{
+              "width":640,
+              "height":456}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"b3322f60c23e4aa8b812ecfd08b99c09",
+              "label":"储蓄卡",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"9759a15b1b4347809a3992b7cd36d5a8",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":20},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7698f118e90f457ba92bde029bf7a77a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":20},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"9855497c17d2460faaa59c081147db77",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":80},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a54d93b9654f41678f619fcba0187ff6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":80},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"c2716ecad2dd4b5eaa294941dc8118ea",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":140},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"34d4703189cd437893234f2deb2c80c2",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":140},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"40b698d3afa44a16af0a061e1fbe22d0",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":12,
+                      "y":200},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5dafd1d678d2471ab14c7871ee05b61f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":12,
+                          "y":200},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}}]},
+{
+              "id":"16acbf296cea43128d2a38a14b718d20",
+              "label":"信用卡",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"220bab75e5164d08889874efdb340542",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":14,
+                      "y":20},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1a89c9f47b41472193400f3fb6ae3ea5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":14,
+                          "y":20},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"1838389ce18149a591445e63ee55acea",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":14,
+                      "y":80},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"acbe7c4504b34443b5632891034e6d29",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":14,
+                          "y":80},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"f879858d4de64b36aa1ad4b16e836c49",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":14,
+                      "y":140},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1a658b5a267f49f5a9ec7dc81de2d6ec",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":14,
+                          "y":140},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"8ce5e2285a1245bc921b9332ca1512d5",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":200},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c8e82b86efcc4837b6c17274accabaa6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":200},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"2513e3d0fb93412abe1e101e1337d8ee",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":260},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f19447e9f86f423b8ef0772e7f9aa815",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":260},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"94bed551b5664e03b2d0a885a72497fa",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":13,
+                      "y":320},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d740634de67143f883c26cd127a11e26",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":13,
+                          "y":320},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"fe8774e164ec425f9fb9898be4f5c291",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":14,
+                      "y":380},
+                    "size":{
+                      "width":607,
+                      "height":60},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e1563c466e954dab913909af596f1aec",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":14,
+                          "y":380},
+                        "size":{
+                          "width":607,
+                          "height":60},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/新增默认收款账户/u21.png"}},
+{
+                  "id":"f202f5a95e6344f390dfe14b27b96897",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"comboBox",
+                  "styleType":"comboBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":191,
+                      "y":390},
+                    "size":{
+                      "width":100,
+                      "height":45}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"e84ee8a51bf746bbb66e34fcb1c048b8",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "location":{
+                      "x":301,
+                      "y":394},
+                    "size":{
+                      "width":29,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"eeb4e48764484a6cac15853e6000663e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "location":{
+                          "x":301,
+                          "y":394},
+                        "size":{
+                          "width":29,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"3234393185ac4c7386e179a79d0f7839",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"comboBox",
+                  "styleType":"comboBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":351,
+                      "y":388},
+                    "size":{
+                      "width":100,
+                      "height":45}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"ec13b3b01f614e288791bc11a1eb9e7d",
+                  "label":"",
+                  "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"28px",
+                    "location":{
+                      "x":461,
+                      "y":394},
+                    "size":{
+                      "width":29,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"68ba7e5961374b25807bdbc0edaf0f5b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bc03b3c6326e4b5693f295ab44dce1c1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"28px",
+                        "location":{
+                          "x":461,
+                          "y":394},
+                        "size":{
+                          "width":29,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"531129ae3b2147a5b56eb1e82a1b5b53",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":150},
+            "size":{
+              "width":307,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 账户设定 to 信用卡 向左滑动 in 500ms",
+                      "panelsToStates":[{
+                          "panelPath":["bc03b3c6326e4b5693f295ab44dce1c1"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "animateIn":{
+                                "easing":"slideLeft",
+                                "duration":500},
+                              "compress":false}}}]}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d9eaaf20a16f48468d5642c958660409":{
+      "scriptId":"u0"},
+    "d63fd04842fa4378bc5795518758e957":{
+      "scriptId":"u1"},
+    "769593e1a35e4d218e7a6ad45d2f6ac2":{
+      "scriptId":"u2"},
+    "ac4f327c16e948948572f1e9ba63a6a7":{
+      "scriptId":"u3"},
+    "c28cb6f51f86491fb20d360993946914":{
+      "scriptId":"u4"},
+    "7df5a56671744ee58cd1aabf858af520":{
+      "scriptId":"u5"},
+    "206dd22f0a134776954c2f55403de961":{
+      "scriptId":"u6"},
+    "61deb5cdbc7e49f9a7eb9eaa815d3d1d":{
+      "scriptId":"u7"},
+    "466f12de1af541459dad37eb0a740eba":{
+      "scriptId":"u8"},
+    "13a5d42bfe4f4e909525f29f8203347e":{
+      "scriptId":"u9"},
+    "748211e4eece4bbba668709a95cbad08":{
+      "scriptId":"u10"},
+    "9191bc1027cb4af8ad97795434afa9e8":{
+      "scriptId":"u11"},
+    "f8ddb1aa25fc4d7e8e954df96f5dc5e8":{
+      "scriptId":"u12"},
+    "74c61e6ce92143d7abf9a53692ac2dad":{
+      "scriptId":"u13"},
+    "99a688174c4b4e0a8d19f000a20b6fd4":{
+      "scriptId":"u14"},
+    "4777de37321c4d7ebf33dee4075dacef":{
+      "scriptId":"u15"},
+    "573aaf463f71442586879314bfd66d5c":{
+      "scriptId":"u16"},
+    "1e66f6bbac87400089983c9d08510102":{
+      "scriptId":"u17"},
+    "6b862645527244eaa88f3a28a4fea340":{
+      "scriptId":"u18"},
+    "249d7c06de124da08cf8d7700297c2a6":{
+      "scriptId":"u19"},
+    "bc03b3c6326e4b5693f295ab44dce1c1":{
+      "scriptId":"u20"},
+    "9759a15b1b4347809a3992b7cd36d5a8":{
+      "scriptId":"u21"},
+    "7698f118e90f457ba92bde029bf7a77a":{
+      "scriptId":"u22"},
+    "9855497c17d2460faaa59c081147db77":{
+      "scriptId":"u23"},
+    "a54d93b9654f41678f619fcba0187ff6":{
+      "scriptId":"u24"},
+    "c2716ecad2dd4b5eaa294941dc8118ea":{
+      "scriptId":"u25"},
+    "34d4703189cd437893234f2deb2c80c2":{
+      "scriptId":"u26"},
+    "40b698d3afa44a16af0a061e1fbe22d0":{
+      "scriptId":"u27"},
+    "5dafd1d678d2471ab14c7871ee05b61f":{
+      "scriptId":"u28"},
+    "220bab75e5164d08889874efdb340542":{
+      "scriptId":"u29"},
+    "1a89c9f47b41472193400f3fb6ae3ea5":{
+      "scriptId":"u30"},
+    "1838389ce18149a591445e63ee55acea":{
+      "scriptId":"u31"},
+    "acbe7c4504b34443b5632891034e6d29":{
+      "scriptId":"u32"},
+    "f879858d4de64b36aa1ad4b16e836c49":{
+      "scriptId":"u33"},
+    "1a658b5a267f49f5a9ec7dc81de2d6ec":{
+      "scriptId":"u34"},
+    "8ce5e2285a1245bc921b9332ca1512d5":{
+      "scriptId":"u35"},
+    "c8e82b86efcc4837b6c17274accabaa6":{
+      "scriptId":"u36"},
+    "2513e3d0fb93412abe1e101e1337d8ee":{
+      "scriptId":"u37"},
+    "f19447e9f86f423b8ef0772e7f9aa815":{
+      "scriptId":"u38"},
+    "94bed551b5664e03b2d0a885a72497fa":{
+      "scriptId":"u39"},
+    "d740634de67143f883c26cd127a11e26":{
+      "scriptId":"u40"},
+    "fe8774e164ec425f9fb9898be4f5c291":{
+      "scriptId":"u41"},
+    "e1563c466e954dab913909af596f1aec":{
+      "scriptId":"u42"},
+    "f202f5a95e6344f390dfe14b27b96897":{
+      "scriptId":"u43"},
+    "e84ee8a51bf746bbb66e34fcb1c048b8":{
+      "scriptId":"u44"},
+    "eeb4e48764484a6cac15853e6000663e":{
+      "scriptId":"u45"},
+    "3234393185ac4c7386e179a79d0f7839":{
+      "scriptId":"u46"},
+    "ec13b3b01f614e288791bc11a1eb9e7d":{
+      "scriptId":"u47"},
+    "68ba7e5961374b25807bdbc0edaf0f5b":{
+      "scriptId":"u48"},
+    "531129ae3b2147a5b56eb1e82a1b5b53":{
+      "scriptId":"u49"}}});

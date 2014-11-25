@@ -1,0 +1,366 @@
+﻿$axure.loadCurrentPage({
+  "url":"下载app的wap页面.html",
+  "generationDate":new Date(1413774071656.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5eacf77e1e1c4d308baa7d694f51c652",
+    "type":"Axure:Page",
+    "name":"下载APP的wap页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fde06bfd783a4c2c87b52f99d51644c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"98e714ca9a214aebbfd45bf05a34b57c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u0.png"}},
+{
+          "id":"b9b1029b646e46058487782f20143a97",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a9f26fe9b595408a8d537310786e86e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u2.png"}},
+{
+          "id":"1aa5842955334e41a20bdcae6e6ff5da",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":108.5,
+              "y":196},
+            "size":{
+              "width":215,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ab62b5d7d66d4ffb8f24eeeec411e982",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":108.5,
+                  "y":196},
+                "size":{
+                  "width":215,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1695c95e45d54abfbcfe592f0d4948ad",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":90,
+              "y":270},
+            "size":{
+              "width":260,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d8d64104723c4fc79e4928087d76a31c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":90,
+                  "y":270},
+                "size":{
+                  "width":260,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/下载app的wap页面/u6.png"}},
+{
+          "id":"51548d7cb00c409e810b3661fbc80511",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":90,
+              "y":410},
+            "size":{
+              "width":260,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2178eeae8f7142799a464de441f6e11e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":90,
+                  "y":410},
+                "size":{
+                  "width":260,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/下载app的wap页面/u6.png"}},
+{
+          "id":"b890079b30414b1b86f1d4fe07852518",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":460,
+              "y":270},
+            "size":{
+              "width":230,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1790b823673747a2b3b42a9d05d410a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":460,
+                  "y":270},
+                "size":{
+                  "width":230,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/下载app的wap页面/u10.png"}},
+{
+          "id":"6a182e620b724fa49dae6a81ca161d25",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":90,
+              "y":340},
+            "size":{
+              "width":260,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a46fd3227d3a4d888e269c562cd61579",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":90,
+                  "y":340},
+                "size":{
+                  "width":260,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/下载app的wap页面/u6.png"}},
+{
+          "id":"be0e77d7275e4a3d9c514650d305021e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":460,
+              "y":350},
+            "size":{
+              "width":230,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40f3469760c449529eb6f9e09a80caa9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":460,
+                  "y":350},
+                "size":{
+                  "width":230,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/下载app的wap页面/u14.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fde06bfd783a4c2c87b52f99d51644c8":{
+      "scriptId":"u0"},
+    "98e714ca9a214aebbfd45bf05a34b57c":{
+      "scriptId":"u1"},
+    "b9b1029b646e46058487782f20143a97":{
+      "scriptId":"u2"},
+    "a9f26fe9b595408a8d537310786e86e5":{
+      "scriptId":"u3"},
+    "1aa5842955334e41a20bdcae6e6ff5da":{
+      "scriptId":"u4"},
+    "ab62b5d7d66d4ffb8f24eeeec411e982":{
+      "scriptId":"u5"},
+    "1695c95e45d54abfbcfe592f0d4948ad":{
+      "scriptId":"u6"},
+    "d8d64104723c4fc79e4928087d76a31c":{
+      "scriptId":"u7"},
+    "51548d7cb00c409e810b3661fbc80511":{
+      "scriptId":"u8"},
+    "2178eeae8f7142799a464de441f6e11e":{
+      "scriptId":"u9"},
+    "b890079b30414b1b86f1d4fe07852518":{
+      "scriptId":"u10"},
+    "1790b823673747a2b3b42a9d05d410a3":{
+      "scriptId":"u11"},
+    "6a182e620b724fa49dae6a81ca161d25":{
+      "scriptId":"u12"},
+    "a46fd3227d3a4d888e269c562cd61579":{
+      "scriptId":"u13"},
+    "be0e77d7275e4a3d9c514650d305021e":{
+      "scriptId":"u14"},
+    "40f3469760c449529eb6f9e09a80caa9":{
+      "scriptId":"u15"}}});

@@ -1,0 +1,286 @@
+﻿$axure.loadCurrentPage({
+  "url":"通付宝下载.html",
+  "generationDate":new Date(1413774071531.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"dd3f6cbdca3c4e5c819c4001d519df1f",
+    "type":"Axure:Page",
+    "name":"通付宝下载",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"4c24a52bb0a64a358d4be67f26ad248f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4851d3f098524ff3af28ba924895e843",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u0.png"}},
+{
+          "id":"d1b12ebc18a64dde915c04ccb047d60f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3cdf83d5e4474836ac4b3fa94b7b2247",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u2.png"}},
+{
+          "id":"33bde4a31e66404baf561e000fd26999",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":108.5,
+              "y":196},
+            "size":{
+              "width":215,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"03c38b5a8bf04488a7a4f6187ef4c10e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":108.5,
+                  "y":196},
+                "size":{
+                  "width":215,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"99cc865882c9454fae1f23e04a8388f6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":140.5,
+              "y":290},
+            "size":{
+              "width":150,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc8fbeb81d394719898354515f693409",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":140.5,
+                  "y":290},
+                "size":{
+                  "width":150,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u6.png"}},
+{
+          "id":"cef72a68a91645d3b8bad7a276b52565",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":70,
+              "y":430},
+            "size":{
+              "width":300,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6986fb1a26f04e82a7ee7c0efb58bdd8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":70,
+                  "y":430},
+                "size":{
+                  "width":300,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u8.png"}},
+{
+          "id":"167109b0b7a6426db54ea2d185967b47",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":460,
+              "y":270},
+            "size":{
+              "width":150,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a93721b0c3d04bfb8cfa75d855d9fd01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":460,
+                  "y":270},
+                "size":{
+                  "width":150,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝下载/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "4c24a52bb0a64a358d4be67f26ad248f":{
+      "scriptId":"u0"},
+    "4851d3f098524ff3af28ba924895e843":{
+      "scriptId":"u1"},
+    "d1b12ebc18a64dde915c04ccb047d60f":{
+      "scriptId":"u2"},
+    "3cdf83d5e4474836ac4b3fa94b7b2247":{
+      "scriptId":"u3"},
+    "33bde4a31e66404baf561e000fd26999":{
+      "scriptId":"u4"},
+    "03c38b5a8bf04488a7a4f6187ef4c10e":{
+      "scriptId":"u5"},
+    "99cc865882c9454fae1f23e04a8388f6":{
+      "scriptId":"u6"},
+    "dc8fbeb81d394719898354515f693409":{
+      "scriptId":"u7"},
+    "cef72a68a91645d3b8bad7a276b52565":{
+      "scriptId":"u8"},
+    "6986fb1a26f04e82a7ee7c0efb58bdd8":{
+      "scriptId":"u9"},
+    "167109b0b7a6426db54ea2d185967b47":{
+      "scriptId":"u10"},
+    "a93721b0c3d04bfb8cfa75d855d9fd01":{
+      "scriptId":"u11"}}});

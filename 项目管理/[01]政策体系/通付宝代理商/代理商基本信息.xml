@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<operation_response>
+    <msgheader version="1.0">
+        <au_token>x3dEBcfIraXJlA/n/L9+1WYC</au_token>
+        <req_token>20110601140000</req_token>
+        <req_bkenv>00</req_bkenv>
+        <retinfo>
+            <rettype>0</rettype>
+            <retcode>0</retcode>
+            <retmsg>读取成功!</retmsg>
+        </retinfo>
+    </msgheader>
+    <msgbody>
+        <msgchild>
+            <custypename>公司</custypename>
+            <msgfile>
+                <msgchild>
+                    <pictypeid>5</pictypeid>
+                    <pictypename>营业执照</pictypename>
+                    <pictypeno>yyfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+                <msgchild>
+                    <pictypeid>6</pictypeid>
+                    <pictypename>组织机构代码证</pictypename>
+                    <pictypeno>orgfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+                <msgchild>
+                    <pictypeid>7</pictypeid>
+                    <pictypename>税务登记证</pictypename>
+                    <pictypeno>swfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+                <msgchild>
+                    <pictypeid>8</pictypeid>
+                    <pictypename>法人身份证</pictypename>
+                    <pictypeno>frfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+            </msgfile>
+        </msgchild>
+        <msgchild>
+            <custypename>个体户</custypename>
+            <msgfile>
+                <msgchild>
+                    <pictypeid>5</pictypeid>
+                    <pictypename>营业执照</pictypename>
+                    <pictypeno>yyfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+                <msgchild>
+                    <pictypeid>7</pictypeid>
+                    <pictypename>税务登记证</pictypename>
+                    <pictypeno>swfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+                <msgchild>
+                    <pictypeid>8</pictypeid>
+                    <pictypename>法人身份证</pictypename>
+                    <pictypeno>frfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+            </msgfile>
+        </msgchild>
+        <msgchild>
+            <custypename>个人</custypename>
+            <msgfile>
+                <msgchild>
+                    <pictypeid>8</pictypeid>
+                    <pictypename>法人身份证</pictypename>
+                    <pictypeno>frfile</pictypeno>
+                    <picuploadurl>http://192.168.1.5/mobilepaypic/</picuploadurl>
+                </msgchild>
+            </msgfile>
+        </msgchild>
+        <result>success</result>
+        <message>读取成功!</message>
+    </msgbody>
+</operation_response>
+
+
+

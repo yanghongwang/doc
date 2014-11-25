@@ -1,0 +1,515 @@
+﻿$axure.loadCurrentPage({
+  "url":"汇通宝支付.html",
+  "generationDate":new Date(1397726600039.52),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"69d8fb202ed74514bbf7612029e6feb9",
+    "type":"Axure:Page",
+    "name":"汇通宝支付",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"055dfd21c12c41f89044e919717e004c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":-550,
+              "y":-320},
+            "size":{
+              "width":2000,
+              "height":1333},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6af27901db1c4ec89ee5962bca7459a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":-550,
+                  "y":-320},
+                "size":{
+                  "width":2000,
+                  "height":1333},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/选择手机号码和金额/u0.png"}},
+{
+          "id":"94daeede307f4763aa290fce2378dc51",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCFFFF},
+            "location":{
+              "x":294,
+              "y":92},
+            "size":{
+              "width":369,
+              "height":50},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"41e0f3b654074f699e433acd539d138f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCFFFF},
+                "location":{
+                  "x":294,
+                  "y":92},
+                "size":{
+                  "width":369,
+                  "height":50},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/选择手机号码和金额/u2.png"}},
+{
+          "id":"1fd56a34fc6e432794114e5a2fc044d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "fontSize":"18px",
+            "location":{
+              "x":436,
+              "y":107},
+            "size":{
+              "width":124,
+              "height":22},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2a3dae1e0d9f4177b844b595aafa33c0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "fontSize":"18px",
+                "location":{
+                  "x":436,
+                  "y":107},
+                "size":{
+                  "width":124,
+                  "height":22},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"491bb3b04a284cd6a7c69270dc43ff29",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":296,
+              "y":144},
+            "size":{
+              "width":369,
+              "height":578},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39272a82d4cb40a2aa354260f2b4bfc1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":296,
+                  "y":144},
+                "size":{
+                  "width":369,
+                  "height":578},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/选择手机号码和金额/u6.png"}},
+{
+          "id":"6dfc6dfe17a340098c381af7ee176f7b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":309,
+              "y":102},
+            "size":{
+              "width":65,
+              "height":32},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"289a9cb567a646279408667060599803",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":309,
+                  "y":102},
+                "size":{
+                  "width":65,
+                  "height":32},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值成功/u10.png"}},
+{
+          "id":"2398a71024ae48b8ad92d9ea25c73eda",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":330,
+              "y":110},
+            "size":{
+              "width":44,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e5a8bab8a7f0441bba46f974c29c87b7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":330,
+                  "y":110},
+                "size":{
+                  "width":44,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"904ed876f18a4008821a7deceecad490",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":309,
+              "y":162},
+            "size":{
+              "width":329,
+              "height":56},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e73efb2c221468188668e007e8c8508",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":309,
+                  "y":162},
+                "size":{
+                  "width":329,
+                  "height":56},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/汇通宝支付/u12.png"}},
+{
+          "id":"96c5d1d1c87e4169840808335cd9811c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":330,
+              "y":182},
+            "size":{
+              "width":150,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f1ff8a6c8dce4611957fde792819493b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":330,
+                  "y":182},
+                "size":{
+                  "width":150,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9e88d5cc41c842519af416848d223ee6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":309,
+              "y":254},
+            "size":{
+              "width":329,
+              "height":335},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eb41c7114f5c4599846c140e9dbf4d64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":309,
+                  "y":254},
+                "size":{
+                  "width":329,
+                  "height":335},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/汇通宝支付/u16.png"}},
+{
+          "id":"0df2e270978e4b78a079db6ea9e85da1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":380,
+              "y":354},
+            "size":{
+              "width":250,
+              "height":26}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c1fbb94fbd0b48d8b61c11dca5ae2fc1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":380,
+                  "y":354},
+                "size":{
+                  "width":250,
+                  "height":26}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/汇通宝支付/u18.png"}},
+{
+          "id":"096ded290bf64736bdbdf513fa7f1aab",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":386,
+              "y":359},
+            "size":{
+              "width":150,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b4f1c1f551f4ed198266ebc95cad395",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":386,
+                  "y":359},
+                "size":{
+                  "width":150,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "055dfd21c12c41f89044e919717e004c":{
+      "scriptId":"u0"},
+    "6af27901db1c4ec89ee5962bca7459a2":{
+      "scriptId":"u1"},
+    "94daeede307f4763aa290fce2378dc51":{
+      "scriptId":"u2"},
+    "41e0f3b654074f699e433acd539d138f":{
+      "scriptId":"u3"},
+    "1fd56a34fc6e432794114e5a2fc044d2":{
+      "scriptId":"u4"},
+    "2a3dae1e0d9f4177b844b595aafa33c0":{
+      "scriptId":"u5"},
+    "491bb3b04a284cd6a7c69270dc43ff29":{
+      "scriptId":"u6"},
+    "39272a82d4cb40a2aa354260f2b4bfc1":{
+      "scriptId":"u7"},
+    "6dfc6dfe17a340098c381af7ee176f7b":{
+      "scriptId":"u8"},
+    "289a9cb567a646279408667060599803":{
+      "scriptId":"u9"},
+    "2398a71024ae48b8ad92d9ea25c73eda":{
+      "scriptId":"u10"},
+    "e5a8bab8a7f0441bba46f974c29c87b7":{
+      "scriptId":"u11"},
+    "904ed876f18a4008821a7deceecad490":{
+      "scriptId":"u12"},
+    "8e73efb2c221468188668e007e8c8508":{
+      "scriptId":"u13"},
+    "96c5d1d1c87e4169840808335cd9811c":{
+      "scriptId":"u14"},
+    "f1ff8a6c8dce4611957fde792819493b":{
+      "scriptId":"u15"},
+    "9e88d5cc41c842519af416848d223ee6":{
+      "scriptId":"u16"},
+    "eb41c7114f5c4599846c140e9dbf4d64":{
+      "scriptId":"u17"},
+    "0df2e270978e4b78a079db6ea9e85da1":{
+      "scriptId":"u18"},
+    "c1fbb94fbd0b48d8b61c11dca5ae2fc1":{
+      "scriptId":"u19"},
+    "096ded290bf64736bdbdf513fa7f1aab":{
+      "scriptId":"u20"},
+    "9b4f1c1f551f4ed198266ebc95cad395":{
+      "scriptId":"u21"}}});

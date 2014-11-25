@@ -1,0 +1,48 @@
+1、Android的四大组件是哪些，它们的作用？
+答：Activity：Activity是Android程序与用户交互的窗口，是Android构造块中最基本的一种，它需要为保持各界面的状态，做很多持久化的事情，妥善管理生命周期以及一些跳转逻辑
+service：后台服务于Activity，封装有一个完整的功能逻辑实现，接受上层指令，完成相关的事务，定义好需要接受的Intent提供同步和异步的接口
+Content Provider：是Android提供的第三方应用数据的访问方案，可以派生Content Provider类，对外提供数据，可以像数据库一样进行选择排序，屏蔽内部数据的存储细节，向外提供统一的借口模型，大大简化上层应用，对数据的整合提供了更方便的途径
+BroadCast Receiver：接受一种或者多种Intent作触发事件，接受相关消息，做一些简单处理，转换成一条Notification，统一了Android的事件广播模型
+
+*2、谈谈android大众常用的五种布局。
+答：在Android中，共有五种布局方式，分别是：FrameLayout(框架布局)，LinearLayout (线性布局)，AbsoluteLayout(绝对布局)，RelativeLayout(相对布局)，TableLayout(表格布局)。
+（1）FrameLayout 框架布局,放入其中的所有元素都被放置在最左上的区域，而且无法为这些元素指定一个确切的位置,下一个子元素会重叠覆盖上一个子元素，适合浏览单张图片。
+（2）LinearLayout 线性布局,是应用程序中最常用的布局方式，主要提供控件水平或者垂直排列的模型，每个子组件都是以垂直或水平的方式来定位.(默认是垂直)
+（3）AbsoluteLayout 绝对定位布局,采用坐标轴的方式定位组件，左上角是（0，0）点，往右x轴递增，往下Y轴递增,组件定位属性为android:layout_x 和 android:layout_y来确定坐标。（已废弃）
+（4）RelativeLayout 相对布局,根据另外一个组件或是顶层父组件来确定下一个组件的位置。和CSS里面的类似。
+（5）TableLayout 表格布局,类似Html里的Table.使用TableRow来布局，其中TableRow代表一行，TableRow的每一个视图组件代表一个单元格。
+
+3、谈谈android数据存储方式。
+答：Android提供了5种方式存储数据：
+（1）使用SharedPreferences存储数据；它是Android提供的用来存储一些简单配置信息的一种机制，采用了XML格式将数据存储到设备中。只能在同一个包内使用，不能在不同的包之间使用。
+（2）文件存储数据；文件存储方式是一种较常用的方法，在Android中读取/写入文件的方法，与Java中实现I/O的程序是完全一样的，提供了openFileInput()和openFileOutput()方法来读取设备上的文件。
+（3）SQLite数据库存储数据；SQLite是Android所带的一个标准的数据库，它支持SQL语句，它是一个轻量级的嵌入式数据库。
+（4）使用ContentProvider存储数据；主要用于应用程序之间进行数据交换，从而能够让其他的应用保存或读取此Content Provider的各种数据类型。
+（5）网络存储数据；通过网络上提供给我们的存储空间来上传(存储)和下载(获取)我们存储在网络空间中的数据信息。
+
+*4、ListView的优化方案
+答：1、如果自定义适配器，那么在getView方法中要考虑方法传进来的参数contentView是否为null，如果为null就创建contentView并返回，如果不为null则直接使用。在这个方法中尽可能少创建view。
+2、给contentView设置tag（setTag（）），传入一个viewHolder对象，用于缓存要显示的数据，可以达到图像数据异步加载的效果。
+3、如果listview需要显示的item很多，就要考虑分页加载。比如一共要显示100条或者更多的时候，我们可以考虑先加载20条，等用户拉到列表底部的时候再去加载接下来的20条。
+
+5、请描述下Activity的生命周期。从运行状态到销毁,经历了那几个生命周期方法
+答：activity的生命周期方法有：onCreate()、onStart()、onResume()、onPause()、onStop()、onDestory()；
+从运行状态到销毁,经历了onPause()、onStop()、onDestory()
+
+6、你后台的Activity被系统回收怎么办
+答：activity回收前会调用void onSaveInstanceState(Bundle outState) 方法,可在此处记录需要恢复的数据,重新回到该activity时会调用onCreate(Bundel SaveInstanceState),可在此处恢复数据
+
+7、使用Intent传递对象时,需要对象实现什么接口才能传递
+答：Serializable（持久序列化，常用在写文件，性能损耗较大）或Parcelable（性能损耗小，不适合持久序列化，即存文件）接口
+
+8、如果一款手机的DPI是240,那么长度100dip相当于多少px
+答：240/160*100=150px
+
+9、android常用的XML解析方式有哪三种
+答：SAX，DOM，PULL
+
+*10、尽可能多的写出子线程更新UI的方式
+答：
+(1)handle.sendMessage(Message msg)
+(2)view.post(Runnable runnable)
+(3)AsyncTask的onPostExecute方法

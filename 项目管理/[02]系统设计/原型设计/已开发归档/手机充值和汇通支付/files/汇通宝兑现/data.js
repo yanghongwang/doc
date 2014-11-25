@@ -1,0 +1,247 @@
+﻿$axure.loadCurrentPage({
+  "url":"汇通宝兑现.html",
+  "generationDate":new Date(1397786910729.3),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"13984ff9871b443cafd50ce822bd0b0f",
+    "type":"Axure:Page",
+    "name":"汇通宝兑现",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"202ae73245d2404090840b0f114ff356",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":77,
+              "y":181},
+            "size":{
+              "width":393,
+              "height":593},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb1fb4eb9ba740ab9154e0b8f22ed860",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":77,
+                  "y":181},
+                "size":{
+                  "width":393,
+                  "height":593},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/汇通宝兑现/u0.jpg"}},
+{
+          "id":"3d7d458667b84d49adeed88b724fdeab",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":77,
+              "y":438},
+            "size":{
+              "width":393,
+              "height":336}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"85721849d0f7493899a8868d6877ffab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":77,
+                  "y":438},
+                "size":{
+                  "width":393,
+                  "height":336}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/汇通宝兑现/u2.png"}},
+{
+          "id":"2e3753063f404112a0fef516932d72f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":100,
+              "y":608},
+            "size":{
+              "width":359,
+              "height":32},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"86663bc5c2444facb196b9747d65eb6f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":608},
+                "size":{
+                  "width":359,
+                  "height":32},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0d2e4e0ad3404f2f9a88a930c1071557",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":166,
+              "y":465},
+            "size":{
+              "width":213,
+              "height":35}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1924659cd9b742809d1665df93b3f331",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":166,
+              "y":522},
+            "size":{
+              "width":213,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 汇通卡输入 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"汇通卡输入.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b14be0c5be2f4822ab0d0e8bf3e458f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":536,
+              "y":220},
+            "size":{
+              "width":338,
+              "height":32},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb18763f34f14a6792ef854333ef8b80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":536,
+                  "y":220},
+                "size":{
+                  "width":338,
+                  "height":32},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "202ae73245d2404090840b0f114ff356":{
+      "scriptId":"u0"},
+    "fb1fb4eb9ba740ab9154e0b8f22ed860":{
+      "scriptId":"u1"},
+    "3d7d458667b84d49adeed88b724fdeab":{
+      "scriptId":"u2"},
+    "85721849d0f7493899a8868d6877ffab":{
+      "scriptId":"u3"},
+    "2e3753063f404112a0fef516932d72f0":{
+      "scriptId":"u4"},
+    "86663bc5c2444facb196b9747d65eb6f":{
+      "scriptId":"u5"},
+    "0d2e4e0ad3404f2f9a88a930c1071557":{
+      "scriptId":"u6"},
+    "1924659cd9b742809d1665df93b3f331":{
+      "scriptId":"u7"},
+    "b14be0c5be2f4822ab0d0e8bf3e458f0":{
+      "scriptId":"u8"},
+    "cb18763f34f14a6792ef854333ef8b80":{
+      "scriptId":"u9"}}});

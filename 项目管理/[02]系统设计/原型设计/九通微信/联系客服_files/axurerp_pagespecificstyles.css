@@ -1,0 +1,298 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../联系客服_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:280px;
+    top:11px;
+    width:383px;
+    height:729px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:383px;
+    height:729px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:356px;
+    width:379px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../联系客服_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:313px;
+    top:154px;
+    width:319px;
+    height:464px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:470px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:224px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../联系客服_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:313px;
+    top:154px;
+    width:319px;
+    height:35px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:41px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:316px;
+    top:160px;
+    width:305px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:600px;
+    top:206px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../联系客服_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:314px;
+    top:222px;
+    width:318px;
+    height:26px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:325px;
+    top:265px;
+    width:286px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../联系客服_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:313px;
+    top:310px;
+    width:319px;
+    height:26px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:32px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:324px;
+    top:354px;
+    width:286px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../联系客服_files/u11_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:313px;
+    top:405px;
+    width:319px;
+    height:26px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:32px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:324px;
+    top:446px;
+    width:286px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

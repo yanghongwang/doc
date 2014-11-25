@@ -1,0 +1,14 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Smsclient"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "Smsclient.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "send.java" #[EndFile]
+
+! Start Breakpoint Structure
+

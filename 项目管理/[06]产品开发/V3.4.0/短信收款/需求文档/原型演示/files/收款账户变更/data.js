@@ -1,0 +1,145 @@
+﻿$axure.loadCurrentPage({
+  "url":"收款账户变更.html",
+  "generationDate":new Date(1414983744701.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"257d53ed36c4495eab561203c0271a4b",
+    "type":"Axure:Page",
+    "name":"收款账户变更",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8bc52745c02b4f7a9d1300805d975da6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "size":{
+              "width":660,
+              "height":1160}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59468e6f3b7c474faa82e4ee22ae827b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "size":{
+                  "width":660,
+                  "height":1160}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页面/u0.png"}},
+{
+          "id":"dee7e5f38c274811a87b9cedb5fe3fd7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":640,
+              "height":1136}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e104a718fe4f4d758e132549d73e742c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":640,
+                  "height":1136}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页面/u2.png"}},
+{
+          "id":"9b9f791f3efb4f19bb21d8cbde28c5cf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":640,
+              "height":1136}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"60e341009d804399a846c9d11cd3a891",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":640,
+                  "height":1136}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/收款账户变更/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8bc52745c02b4f7a9d1300805d975da6":{
+      "scriptId":"u0"},
+    "59468e6f3b7c474faa82e4ee22ae827b":{
+      "scriptId":"u1"},
+    "dee7e5f38c274811a87b9cedb5fe3fd7":{
+      "scriptId":"u2"},
+    "e104a718fe4f4d758e132549d73e742c":{
+      "scriptId":"u3"},
+    "9b9f791f3efb4f19bb21d8cbde28c5cf":{
+      "scriptId":"u4"},
+    "60e341009d804399a846c9d11cd3a891":{
+      "scriptId":"u5"}}});

@@ -1,0 +1,26 @@
+1 客服收到投诉：
+    (1) 2014-11-05 15017027112话费充值不到帐，经查，通付宝后台有收到欧飞返回的报文，欧飞系统查不到记录。
+    (2) 2014-11-06 13911771622话费充值不到帐，经查，有到帐的，耗时10分钟左右。 (提交时间13:34:25 充值时间13:43:37)   
+
+
+2 处理方法：
+    目前只发现1笔15017027112，通付宝后台成功，欧飞系统没记录，也没扣这笔钱。 所以财务手工充值，2014-11-06 13:55:27充值成功。
+
+3 后续跟进：
+    财务联系对方，对方客服看不懂报文，鉴于第一次发生，下次发生再详查。
+
+    欧飞返回的成功报文：
+    <?xml version="1.0" encoding="GB2312" ?> 
+    <orderinfo>
+        <err_msg></err_msg>
+        <retcode>1</retcode>
+             <orderid>S1411053196196</orderid> 
+            <cardid>141304</cardid> 
+            <cardnum>1</cardnum> 
+            <ordercash>99.4</ordercash>    
+            <cardname>广东移动话费100元直充</cardname> 
+            <sporder_id>tfb1415146978</sporder_id> 
+            <game_userid>15017027112</game_userid>
+            <game_state>0</game_state>
+    </orderinfo>
+

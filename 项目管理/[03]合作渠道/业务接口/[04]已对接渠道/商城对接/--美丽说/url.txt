@@ -1,0 +1,10 @@
+美丽说网站：lm.meilishuo.com
+账户 :通付宝
+密码 ：tfbpay.cn
+
+链接：http://m.meilishuo.com/?nmref=NM_s10936_0_wap&channel=40106
+
+跟踪业绩的是10936这个参数，是联盟id
+其中wap是反馈标签，可以换成我方的渠道
+
+订单当天可以后台查询到

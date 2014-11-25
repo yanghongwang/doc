@@ -1,0 +1,86 @@
+.downloadwrap
+{
+	width: 100%;
+	margin-bottom: 20px;
+	z-index: 6;
+}
+.downloadwrap .android
+{
+	position: absolute;
+	left: 11.8%;
+	top: 28.8%;
+	width: 21.4%;
+	cursor: pointer;
+}
+.downloadwrap .iphone
+{
+	position: absolute;
+	left: 35.7%;
+	top: 28.8%;
+	width: 21.4%;
+	cursor: pointer;
+}
+.downloadwrap .android img, .downloadwrap .iphone img
+{
+	width: 100%;
+}
+.imagewrap
+{
+	width: 90%;
+	min-height: 100px;
+	margin: 20px auto;
+	padding: 10px 0px;
+	border: solid 1px #E5E6E6;
+}
+.imagewrap .ul
+{
+	width: 70%;
+	margin: 0px auto;
+}
+.imagewrap .ul img
+{
+	width: 100%;
+}
+.imagewrap .previous, .imagewrap .previousactive
+{
+	position: absolute;
+	left: 5%;
+	top: 45%;
+	width: 42px;
+	height: 42px;
+	cursor: pointer;
+}
+.imagewrap .previous, .imagewrap .previousactive
+{
+	position: absolute;
+	left: 3%;
+	top: 45%;
+	width: 42px;
+	height: 42px;
+	cursor: pointer;
+}
+.imagewrap .next, .imagewrap .nextactive
+{
+	position: absolute;
+	right: 3%;
+	top: 45%;
+	width: 42px;
+	height: 42px;
+	cursor: pointer;
+}
+.imagewrap .previous
+{
+	background-image: url(../image/previousactive.png);
+}
+.imagewrap .previousactive
+{
+	background-image: url(../image/previousactive.png);
+}
+.imagewrap .next
+{
+	background-image: url(../image/nextactive.png);
+}
+.imagewrap .nextactive
+{
+	background-image: url(../image/nextactive.png);
+}

@@ -1,0 +1,551 @@
+﻿$axure.loadCurrentPage({
+  "url":"员工工资登记.html",
+  "generationDate":new Date(1411007650390.63),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0c4215988a9f4df2a7bf08884065dcb8",
+    "type":"Axure:Page",
+    "name":"员工工资登记",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"56ab7403d93c41578ee5658061e4b7bc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":26},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5712567aa9f24aa090d5070088371078",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":26},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/工资收发/u0.png"}},
+{
+          "id":"e6b44bae4fe542a39612ae3c361a7dff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":178},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd51038df6d84904921e745bf55c6906",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":178},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/工资收发/u2.png"}},
+{
+          "id":"8838bac825cb4986826a520eed201138",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa09b11961624160991dd331a396e01f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/工资收发/u4.png"}},
+{
+          "id":"61415ea2a0e64291b39088aa7225bc9c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":181},
+            "size":{
+              "width":71,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"11dd84c5b5d9488c952eb2069ef48702",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":181},
+                "size":{
+                  "width":71,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 工资发放",
+                      "target":{
+                        "targetType":"page",
+                        "url":"工资发放.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/工资收发/u6.png"}},
+{
+          "id":"a619be74df874e84a31e894454383cef",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":152,
+              "y":182},
+            "size":{
+              "width":148,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"58279b555ad3433cb5c02c2b01c4225d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":152,
+                  "y":182},
+                "size":{
+                  "width":148,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a1a6ade19ea8432b8bb7e0d7c8539077",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":560},
+            "size":{
+              "width":138,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"042a06817c7947bab591d90b08704112",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":560},
+                "size":{
+                  "width":138,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 工资发放",
+                      "target":{
+                        "targetType":"page",
+                        "url":"工资发放.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/员工工资登记/u10.png"}},
+{
+          "id":"8a39431dddde4f7ab9fd82a958bff41c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":62,
+              "y":320},
+            "size":{
+              "width":298,
+              "height":220}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e237517c13e140a28d4990bf19dd2911",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":62,
+                  "y":320},
+                "size":{
+                  "width":298,
+                  "height":220}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/员工工资登记/u12.png"}},
+{
+          "id":"17920c6e1a214132b0008a59c950aa78",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":410,
+              "y":410},
+            "size":{
+              "width":340,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"881f1c57bb5e444eb30452d9071d4f87",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":410,
+                  "y":410},
+                "size":{
+                  "width":340,
+                  "height":41}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/工资发放/u16.png"}},
+{
+          "id":"56668585ed9c4b9cb60916f0e8d4dd29",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"700",
+            "location":{
+              "x":62,
+              "y":249},
+            "size":{
+              "width":298,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a32fcdcb286b43e9a38cdfe1fb29f13c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"700",
+                "location":{
+                  "x":62,
+                  "y":249},
+                "size":{
+                  "width":298,
+                  "height":41}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/员工工资登记/u16.png"}},
+{
+          "id":"82d7b0dba3434272a1d2a691b20776e9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":222,
+              "y":560},
+            "size":{
+              "width":138,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b328ab784c4742f3827c8a1837c75fb4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":222,
+                  "y":560},
+                "size":{
+                  "width":138,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 支付工资（以支付原型为准）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"支付工资（以支付原型为准）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 2",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 工资发放",
+                      "target":{
+                        "targetType":"page",
+                        "url":"工资发放.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/员工工资登记/u10.png"}},
+{
+          "id":"a214bcc5ed7b4411852bca236da02b3e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":410,
+              "y":559},
+            "size":{
+              "width":340,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c0f86d05599e4120979e3a54cc10aebd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":410,
+                  "y":559},
+                "size":{
+                  "width":340,
+                  "height":41}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/工资发放/u16.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "56ab7403d93c41578ee5658061e4b7bc":{
+      "scriptId":"u0"},
+    "5712567aa9f24aa090d5070088371078":{
+      "scriptId":"u1"},
+    "e6b44bae4fe542a39612ae3c361a7dff":{
+      "scriptId":"u2"},
+    "bd51038df6d84904921e745bf55c6906":{
+      "scriptId":"u3"},
+    "8838bac825cb4986826a520eed201138":{
+      "scriptId":"u4"},
+    "fa09b11961624160991dd331a396e01f":{
+      "scriptId":"u5"},
+    "61415ea2a0e64291b39088aa7225bc9c":{
+      "scriptId":"u6"},
+    "11dd84c5b5d9488c952eb2069ef48702":{
+      "scriptId":"u7"},
+    "a619be74df874e84a31e894454383cef":{
+      "scriptId":"u8"},
+    "58279b555ad3433cb5c02c2b01c4225d":{
+      "scriptId":"u9"},
+    "a1a6ade19ea8432b8bb7e0d7c8539077":{
+      "scriptId":"u10"},
+    "042a06817c7947bab591d90b08704112":{
+      "scriptId":"u11"},
+    "8a39431dddde4f7ab9fd82a958bff41c":{
+      "scriptId":"u12"},
+    "e237517c13e140a28d4990bf19dd2911":{
+      "scriptId":"u13"},
+    "17920c6e1a214132b0008a59c950aa78":{
+      "scriptId":"u14"},
+    "881f1c57bb5e444eb30452d9071d4f87":{
+      "scriptId":"u15"},
+    "56668585ed9c4b9cb60916f0e8d4dd29":{
+      "scriptId":"u16"},
+    "a32fcdcb286b43e9a38cdfe1fb29f13c":{
+      "scriptId":"u17"},
+    "82d7b0dba3434272a1d2a691b20776e9":{
+      "scriptId":"u18"},
+    "b328ab784c4742f3827c8a1837c75fb4":{
+      "scriptId":"u19"},
+    "a214bcc5ed7b4411852bca236da02b3e":{
+      "scriptId":"u20"},
+    "c0f86d05599e4120979e3a54cc10aebd":{
+      "scriptId":"u21"}}});

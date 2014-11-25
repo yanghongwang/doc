@@ -1,0 +1,92 @@
+.downloadwrap
+{
+	width: 914px;
+	height: 397px;
+	margin: 0px auto 120px auto;
+	background-image: url(../image/downloadwrap.png);
+	z-index: 6;
+}
+.downloadwrap .android
+{
+	position: absolute;
+	left: 114px;
+	top: 100px;
+	width: 158px;
+	height: 74px;
+	background-image: url(../image/android.png);
+	cursor: pointer;
+}
+.downloadwrap .iphone
+{
+	position: absolute;
+	left: 272px;
+	top: 100px;
+	width: 157px;
+	height: 74px;
+	background-image: url(../image/iphone.png);
+	cursor: pointer;
+}
+.downloadwrap .previous, .downloadwrap .previousactive
+{
+	position: absolute;
+	left: 563px;
+	top: 170px;
+	width: 42px;
+	height: 47px;
+	cursor: pointer;
+}
+.downloadwrap .previous
+{
+	background-image: url(../image/previous.png);
+}
+.downloadwrap .previousactive
+{
+	background-image: url(../image/previousactive.png);
+}
+.downloadwrap .next, .downloadwrap .nextactive
+{
+	position: absolute;
+	left: 808px;
+	top: 170px;
+	width: 42px;
+	height: 47px;
+	cursor: pointer;
+}
+.downloadwrap .next
+{
+	background-image: url(../image/next.png);
+}
+.downloadwrap .nextactive
+{
+	background-image: url(../image/nextactive.png);
+}
+.downloadwrap .ul
+{
+	position: absolute;
+	left: 592px;
+	top: 51px;
+	width: 226px;
+	height: 292px;
+	
+}
+.downloadwrap div
+{
+	width: 226px;
+	height: 292px;
+}
+.downloadwrap .ol1
+{
+	background-image: url(../image/ol1.png);
+}
+.downloadwrap .ol2
+{
+	background-image: url(../image/ol2.png);
+}
+.downloadwrap .ol3
+{
+	background-image: url(../image/ol3.png);
+}
+.downloadwrap .ul .hidden
+{
+	display: none;
+}

@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="css/index.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+	<div class="pagetop">
+		<div class="logo"><img width="100%" src="image/logo.png" /></div>
+		<div class="navigation">
+			<div class="index current" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="index.html">首页</a></div>
+			<div class="company" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">关于公司
+				<div class="ul">
+					<div class="ol"><a href="company.html">公司介绍</a></div>
+					<div class="ol"><a href="contact.html">联系我们</a></div>
+				</div>
+			</div>
+			<div class="product" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">产品介绍
+				<div class="ul">
+					<div class="ol"><a href="wallet.html">通付宝APP</a></div>
+					<div class="ol"><a href="cardreader.html">手机刷卡器</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div id="adimagewrap" class="adimage" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">
+		<img id="adimage" width="100%" src="image/adimage1.png" />
+	</div>
+	<div class="pagemiddle">
+		<div class="downapp">
+			<img width="100%" src="image/downapp.png" />
+			<a href="https://itunes.apple.com/us/app/tong-fu-bao-qian-bao/id740276926?ls=1&amp;mt=8"><div class="iphone"></div></a>
+			<a href="http://www.ms56.net/wap/msmobilepay.apk"><div class="android"></div></a>
+		</div>
+		<div class="applist"><img width="100%" src="image/applist.png" /></div>
+	</div>
+	<div class="pagebottom">
+		全国客服热线：400-6868-956 / 腾讯公众微信：tfbpay
+		<br>
+		网站地图 | 帮助中心 | 联系我们
+		<br>
+		通付宝网络技术有限公司@2014版权所有
+	</div>
+</body>
+</html>
+<script>
+var currentImageIndex = 1;
+var speed = 3000;
+var imageCount = 5;
+function ShowImage()
+{
+	var adimage = document.getElementById("adimage");
+	adimage.src = "image/adimage" + currentImageIndex + ".png";
+}
+function NextImage()
+{
+	currentImageIndex++;
+	currentImageIndex = currentImageIndex > imageCount ? 1 : currentImageIndex;
+	ShowImage();
+}
+function PreviousImage()
+{
+	currentImageIndex--;
+	currentImageIndex = currentImageIndex <= 0 ? imageCount : currentImageIndex;
+	ShowImage();
+}
+var myInterval = setInterval(NextImage, speed);
+var adimagewrap = document.getElementById("adimagewrap");
+adimagewrap.onmouseover = function() { clearInterval(myInterval) };
+adimagewrap.onmouseout = function() { myInterval = setInterval(NextImage, speed) };
+</script>

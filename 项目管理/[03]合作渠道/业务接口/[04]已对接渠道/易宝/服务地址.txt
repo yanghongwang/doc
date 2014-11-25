@@ -1,0 +1,19 @@
+www.yeepay.com
+
+服务号：
+10012409428
+
+公司名称：南京顺美纸业有限公司
+开户行  ：工行南京宏运大道支行
+账号    ：4301019819100050683
+
+密钥：
+4419Vkr4v1r21CH3HK8MNg32M85y27K69Dei4155v9ynN0Pl00XR8kNy15a9
+
+姓名:	通付宝网络技术有限公司
+证书DN:	cn=041@Z10012409428@tfbpay@00000002,ou=Enterprises,ou=ra.yeepay.com,o=CFCA Operation CA2,c=cn
+证书参考号:	02016aaeb22598e20fa1bbd77774356d
+证书授权码:	fca86fae4edab58f29151c1755d2a8ef
+
+http://www.yeepay.com/
+yjdark@21cn.com          tfbpay

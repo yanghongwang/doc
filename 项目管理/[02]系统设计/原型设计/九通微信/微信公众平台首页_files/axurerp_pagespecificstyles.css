@@ -1,0 +1,458 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../微信公众平台首页_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:280px;
+    top:11px;
+    width:383px;
+    height:729px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:383px;
+    height:729px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:356px;
+    width:379px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:342px;
+    top:138px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:443px;
+    top:139px;
+    width:58px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../微信公众平台首页_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:313px;
+    top:154px;
+    width:319px;
+    height:464px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:470px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:224px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../微信公众平台首页_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:313px;
+    top:580px;
+    width:319px;
+    height:38px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:44px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../微信公众平台首页_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:318px;
+    top:583px;
+    width:37px;
+    height:32px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:32px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_line {
+    background-image: url('../微信公众平台首页_files/u10_line.png');
+}
+
+.u10_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:38px;
+}
+
+.u10 {
+    position:absolute;
+    left:351px;
+    top:580px;
+    width:10px;
+    height:38px;
+    
+}
+
+.u11 {
+    position:absolute;
+    left:379px;
+    top:591px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:470px;
+    top:591px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:562px;
+    top:591px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_line {
+    background-image: url('../微信公众平台首页_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:38px;
+}
+
+.u14 {
+    position:absolute;
+    left:444px;
+    top:580px;
+    width:10px;
+    height:38px;
+    
+}
+
+.u15_line {
+    background-image: url('../微信公众平台首页_files/u15_line.png');
+}
+
+.u15_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:38px;
+}
+
+.u15 {
+    position:absolute;
+    left:539px;
+    top:580px;
+    width:10px;
+    height:38px;
+    
+}
+
+.u16_normal {
+    background-image: url('../微信公众平台首页_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:313px;
+    top:154px;
+    width:319px;
+    height:35px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:41px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:316px;
+    top:160px;
+    width:306px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../微信公众平台首页_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:513px;
+    top:158px;
+    width:113px;
+    height:29px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:113px;
+    height:29px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:109px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../微信公众平台首页_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:334px;
+    top:204px;
+    width:277px;
+    height:357px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:283px;
+    height:363px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:170px;
+    width:273px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_line {
+    background-image: url('../微信公众平台首页_files/u23_line.png');
+}
+
+.u23_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u23 {
+    position:absolute;
+    left:334px;
+    top:512px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u24 {
+    position:absolute;
+    left:342px;
+    top:532px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:524px;
+    top:532px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

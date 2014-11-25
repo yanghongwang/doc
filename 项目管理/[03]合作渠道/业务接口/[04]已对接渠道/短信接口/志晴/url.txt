@@ -1,0 +1,4 @@
+http://124.173.70.59:8081/SmsAndMms/login.jsp
+
+ÓÃ»§Ãû£ºSDK-TFP-0100
+ÃÜÂë£ºVS46RGDS

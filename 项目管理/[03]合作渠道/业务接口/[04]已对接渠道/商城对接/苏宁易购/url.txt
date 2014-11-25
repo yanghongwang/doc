@@ -1,0 +1,8 @@
+http://union.suning.com/aas/index/index!input.action
+用户名：通付宝  密码：tfbpay.cn
+
+ftp://unionfile.suning.com/ 
+账户 ftp1343832
+密码 ftp1343832
+
+http://union.suning.com/aas/open/vistorAd.action?userId=1343832&webSiteId=0&adInfoId=2&adBookId=0&channel=11&vistURL=http://m.suning.com/&subUserEx=123

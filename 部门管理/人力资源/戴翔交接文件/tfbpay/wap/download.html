@@ -1,0 +1,76 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="css/index.css" rel="stylesheet" type="text/css"/>
+<link href="css/download.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+	<div class="pagetop">
+		<div class="logo"><img width="100%" src="image/logo.png" /></div>
+		<div class="navigation">
+			<div class="index" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="index.html">首页</a></div>
+			<div class="company" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);">关于公司
+				<div class="ul">
+					<div class="ol"><a href="company.html">公司介绍</a></div>
+					<div class="ol"><a href="contact.html">联系我们</a></div>
+				</div>
+			</div>
+			<div class="product" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="product.html">产品介绍</a></div>
+			<div class="download current" onmouseout="NormalIcon(this);"  onmouseover="ActiveIcon(this);"><a href="download.html">应用下载</a></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="pagemiddle">
+		<div class="downloadwrap">
+			<img width="100%" src="image/downloadwrap.png" />
+			<div class="android">
+				<a href="http://www.ms56.net/wap/msmobilepay.apk">
+					<img src="image/android.png" />
+				</a>
+			</div>
+			<div class="iphone">
+				<a href="https://itunes.apple.com/us/app/tong-fu-bao-qian-bao/id740276926?ls=1&amp;mt=8">
+					<img src="image/iphone.png" />
+				</a>
+			</div>
+		</div>
+		<div class="imagewrap">
+			<div class="previous" onmouseout="this.className='previous'"  onmouseover="this.className='previousactive'" onclick="PreviousImage();"></div>
+			<div class="next" onmouseout="this.className='next'" onmouseover="this.className='nextactive'" onclick="NextImage();"></div>
+			<div class="ul">
+				<img id="adimage" src="image/ol1.png" />
+			</div>
+		</div>
+	</div>
+	<div class="pagebottom">
+		全国客服热线：400-6868-956 / 腾讯公众微信：tfbpay
+		<br>
+		网站地图 | 帮助中心 | 联系我们
+		<br>
+		通付宝网络技术有限公司@2014版权所有
+	</div>
+</body>
+</html>
+<script>
+var currentImageIndex = 1;
+var imageCount = 3;
+function NextImage()
+{
+	currentImageIndex++;
+	if(currentImageIndex > imageCount) currentImageIndex = 1;
+	ShowImage();
+}
+function PreviousImage()
+{
+	currentImageIndex--;
+	if(currentImageIndex <= 0) currentImageIndex = imageCount;
+	ShowImage();
+}
+function ShowImage()
+{
+	var adimage = document.getElementById("adimage");
+	adimage.src = "image/ol" + currentImageIndex + ".png";
+}
+</script>

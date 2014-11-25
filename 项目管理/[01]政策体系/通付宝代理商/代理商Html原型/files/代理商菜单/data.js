@@ -1,0 +1,507 @@
+﻿$axure.loadCurrentPage({
+  "url":"代理商菜单.html",
+  "generationDate":new Date(1403259998921.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"681bc9567f5340cfa2392ef4b0e0d4de",
+    "type":"Axure:Page",
+    "name":"代理商菜单",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f67750ccffcf491c816d102315a02b80",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":16},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e2caf19f983741ce9bbbce2b886922a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":16},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝代理商（app首页）/u0.png"}},
+{
+          "id":"406f4e17d41b44aeb536614541322c86",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":51,
+              "y":168},
+            "size":{
+              "width":320,
+              "height":46},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43b077cad9774e8fa2635493359744d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":51,
+                  "y":168},
+                "size":{
+                  "width":320,
+                  "height":46},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝代理商（app首页）/u2.png"}},
+{
+          "id":"fb2b8ca3c7544f4ea5c90018407aa756",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":153},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d110db947a1145cfbd3136b997c7ec88",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":153},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通付宝代理商（app首页）/u4.png"}},
+{
+          "id":"2263deeba2914d128817606b0f78125a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":350},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0342a22b1d2d49ab86f53b780f2e68fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":350},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"87bf3d1fa426469ab4f4f26af80a5c0a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":224},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2196d913b8ed4f148f90528b9e238bcd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":224},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 通付宝代理商（APP首页）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通付宝代理商（app首页）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"56a90d023052418d9bd18bff21c29159",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":263},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6b4b93b0bb44d5e82af79a0e20c8519",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":263},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 代理商账户管理",
+                      "target":{
+                        "targetType":"page",
+                        "url":"代理商账户管理.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"ddae292ee8bd44c0af59784558542299",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":390},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ffd1ccd66cad4a33945cfff3fe0b2613",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":390},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"37585326216142bf85bdedf99ed1605a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":430},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7da50f09c7b341d2adba65e804b5bd56",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":430},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"4613917b5ffa410f91e18efdc07a59f7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":470},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e408dd9d79b34e6aa42834b276102ad4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":470},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}},
+{
+          "id":"7945dff15e944c948d5101bedca30040",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":61,
+              "y":310},
+            "size":{
+              "width":249,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eeb9e90a76b044b2a8f9a1d24d474f50",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":61,
+                  "y":310},
+                "size":{
+                  "width":249,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 代理商绑定",
+                      "target":{
+                        "targetType":"page",
+                        "url":"代理商绑定.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/代理商菜单/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f67750ccffcf491c816d102315a02b80":{
+      "scriptId":"u0"},
+    "e2caf19f983741ce9bbbce2b886922a0":{
+      "scriptId":"u1"},
+    "406f4e17d41b44aeb536614541322c86":{
+      "scriptId":"u2"},
+    "43b077cad9774e8fa2635493359744d1":{
+      "scriptId":"u3"},
+    "fb2b8ca3c7544f4ea5c90018407aa756":{
+      "scriptId":"u4"},
+    "d110db947a1145cfbd3136b997c7ec88":{
+      "scriptId":"u5"},
+    "2263deeba2914d128817606b0f78125a":{
+      "scriptId":"u6"},
+    "0342a22b1d2d49ab86f53b780f2e68fa":{
+      "scriptId":"u7"},
+    "87bf3d1fa426469ab4f4f26af80a5c0a":{
+      "scriptId":"u8"},
+    "2196d913b8ed4f148f90528b9e238bcd":{
+      "scriptId":"u9"},
+    "56a90d023052418d9bd18bff21c29159":{
+      "scriptId":"u10"},
+    "b6b4b93b0bb44d5e82af79a0e20c8519":{
+      "scriptId":"u11"},
+    "ddae292ee8bd44c0af59784558542299":{
+      "scriptId":"u12"},
+    "ffd1ccd66cad4a33945cfff3fe0b2613":{
+      "scriptId":"u13"},
+    "37585326216142bf85bdedf99ed1605a":{
+      "scriptId":"u14"},
+    "7da50f09c7b341d2adba65e804b5bd56":{
+      "scriptId":"u15"},
+    "4613917b5ffa410f91e18efdc07a59f7":{
+      "scriptId":"u16"},
+    "e408dd9d79b34e6aa42834b276102ad4":{
+      "scriptId":"u17"},
+    "7945dff15e944c948d5101bedca30040":{
+      "scriptId":"u18"},
+    "eeb9e90a76b044b2a8f9a1d24d474f50":{
+      "scriptId":"u19"}}});

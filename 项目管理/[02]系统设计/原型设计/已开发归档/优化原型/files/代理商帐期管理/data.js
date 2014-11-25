@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"代理商帐期管理.html",
+  "generationDate":new Date(1399184858766.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6bfccb1c964447ee990f6115bb5eca43",
+    "type":"Axure:Page",
+    "name":"代理商帐期管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7d36789bc88d44d490d916ec838ddaaa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":90},
+            "size":{
+              "width":200,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df53d3b7af6843f98a74b49455d2652b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":80,
+                  "y":90},
+                "size":{
+                  "width":200,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/认证注册（基础设定）/u18.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7d36789bc88d44d490d916ec838ddaaa":{
+      "scriptId":"u0"},
+    "df53d3b7af6843f98a74b49455d2652b":{
+      "scriptId":"u1"}}});
