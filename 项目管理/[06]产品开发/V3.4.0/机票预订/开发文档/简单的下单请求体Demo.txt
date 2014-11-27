@@ -1,0 +1,98 @@
+<Request>
+<Header AllianceID="20396" SID="451650" TimeStamp="1408344475" Signature="FE3091FC5CA5BE190ADF84BDBC53EF77" RequestType="OTA_FltSaveOrder" AsyncRequest="false" Timeout="0" MessagePriority="3" />
+<!-- 生产环境wwwwww-UID: 86826d23-5fee-4f00-b66e-89f4b76119f2 -->
+<FltSaveOrderRequest>
+  <UID>4184a1ca-9f5e-4916-9030-093bd548419e</UID>
+  <OrderType>ADU</OrderType>
+  <Amount>1750</Amount>
+  <ProcessDesc></ProcessDesc>
+  <FlightInfoList>
+    <FlightInfoRequest>
+      <DepartCityID>1</DepartCityID>
+      <ArriveCityID>30</ArriveCityID>
+      <DPortCode>SZX</DPortCode>
+      <APortCode>PEK</APortCode>
+      <AirlineCode>CA</AirlineCode>
+      <Flight>CACA1306</Flight>
+      <Class>Y</Class>
+      <SubClass>B</SubClass>
+      <TakeOffTime>2014-08-19T09:00:00</TakeOffTime>
+      <ArrivalTime>2014-08-19T12:05:00</ArrivalTime>
+      <Rate>0.9</Rate>
+      <Price>1580</Price>
+      <Tax>50</Tax>
+      <OilFee>120.0000</OilFee>
+      <NonRer>T</NonRer>
+      <NonRef>T</NonRef>
+      <NonEnd>T</NonEnd>
+      <RerNote>不得更改。</RerNote>
+      <RefNote>不得退票。</RefNote>
+      <EndNote>不得签转。</EndNote>
+      <Remark>yeye特价产品^</Remark>
+      <NeedAppl>F</NeedAppl>
+      <Recommend>2</Recommend>
+      <Canpost>T</Canpost>
+      <CraftType>77A</CraftType>
+      <Quantity>10</Quantity>
+      <RefundFeeFormulaID>0</RefundFeeFormulaID>
+      <UpGrade>T</UpGrade>
+      <TicketType>1111</TicketType>
+      <AllowCPType>1111</AllowCPType>
+      <ProductType>NORMAL</ProductType>
+      <ProductSource>1</ProductSource>
+      <InventoryType>Fav</InventoryType>
+      <PriceType>NormalPrice</PriceType>
+      <Onlyowncity>false</Onlyowncity>
+      <CanSeparateSale />
+      <RouteIndex>0</RouteIndex>
+    </FlightInfoRequest>
+  </FlightInfoList>
+  <PassengerList>
+    <PassengerRequest>
+      <PassengerName>测试订单</PassengerName>
+      <BirthDay>1984-01-01</BirthDay>
+      <PassportTypeID>2</PassportTypeID>
+      <PassportNo>121212</PassportNo>
+      <ContactTelephone />
+      <Gender>M</Gender>
+      <NationalityCode></NationalityCode>
+    </PassengerRequest>
+  </PassengerList>
+  <ContactInfo>
+    <ContactName>测试订单</ContactName>
+    <ConfirmOption>TEL</ConfirmOption>
+    <MobilePhone>13800138000</MobilePhone>
+    <ContactTel />
+    <ForeignMobile />
+    <MobileCountryFix />
+    <ContactEMail>test@ctrip.com</ContactEMail>
+    <ContactFax />
+  </ContactInfo>
+  <DeliverInfo>
+    <DeliveryType>PJN</DeliveryType>
+    <SendTicketCityID>0</SendTicketCityID>
+    <OrderRemark></OrderRemark>
+    <PJS>
+      <Receiver />
+      <Province />
+      <City />
+      <Canton />
+      <Address />
+      <PostCode />
+    </PJS>
+  </DeliverInfo>
+  <PayInfo>
+    <!-- 第三方支付请求 -->
+    <PrePayType>MUPAY</PrePayType>
+    <ThirdPayInfo>
+      <Account>wwwww@ctrip.com</Account>
+      <Amount>1550</Amount>
+      <Pid></Pid>
+      <RefNo>2012121200000002</RefNo>
+    </ThirdPayInfo>
+  
+  </PayInfo>
+</FltSaveOrderRequest>
+
+
+</Request>

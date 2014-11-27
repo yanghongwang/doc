@@ -1,0 +1,616 @@
+﻿$axure.loadCurrentPage({
+  "url":"刷卡器获取授权码.html",
+  "generationDate":new Date(1416631106843.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7fd33a96dfa74f528325d5097faa084a",
+    "type":"Axure:Page",
+    "name":"刷卡器获取授权码",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"de7bbe0d583b479ebe0c1f25248657a6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6ed7f7f69c50460a865fdb768f4f1ce8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买授权码/u0.png"}},
+{
+          "id":"16ab17687c1a428d9e11a5e955420497",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"83fd5768576d4673a1ee7eed420c227d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买授权码/u2.png"}},
+{
+          "id":"fd635b93a2004d2b873af238369eecf6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":150,
+              "y":194},
+            "size":{
+              "width":177,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d004ffa8ecf42c4a1dacda2345eca94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":150,
+                  "y":194},
+                "size":{
+                  "width":177,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f5d33db5c4e148feab92ff3f18056515",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":86,
+              "y":260},
+            "size":{
+              "width":260,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ecad1cee42bf4fdca3d2f5cad0a3fe93",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":86,
+                  "y":260},
+                "size":{
+                  "width":260,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u6.png"}},
+{
+          "id":"2a82e9880a4c4104a50a96cbddbd322b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":90,
+              "y":198},
+            "size":{
+              "width":30,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d615cae5a3044bf9af3e7b999b16be43",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":90,
+                  "y":198},
+                "size":{
+                  "width":30,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的授权码（已绑定设备）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的授权码（已绑定设备）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/购买授权码/u21.png"}},
+{
+          "id":"63fb7a1a60f7420494884067bb5041ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":170,
+              "y":377},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a0625f98ec4a4ab0ac404be443d10747",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":170,
+                  "y":377},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的授权码（已绑定设备）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的授权码（已绑定设备）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u10.png"}},
+{
+          "id":"4242ae44e99d45c49dd4f1b1ee015b15",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":86,
+              "y":320},
+            "size":{
+              "width":180,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d9f214d8d8040058bb9aef8fbdbd727",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":86,
+                  "y":320},
+                "size":{
+                  "width":180,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u12.png"}},
+{
+          "id":"6085a16a236d404a8bf481a2a3c1a432",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":280,
+              "y":320},
+            "size":{
+              "width":70,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35d4126c600a4d1c9a005c927d2ff0ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":280,
+                  "y":320},
+                "size":{
+                  "width":70,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u14.png"}},
+{
+          "id":"54f8aeeeb67a4496a9bd6ebf937373db",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":260},
+            "size":{
+              "width":250,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c28f04e761154110ae53df51e0c3f578",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":260},
+                "size":{
+                  "width":250,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u16.png"}},
+{
+          "id":"670a1c57fc66473fa8e8076201e39358",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":320},
+            "size":{
+              "width":250,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1de0c4ee0d844fb984484ddbbaf13dd9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":320},
+                "size":{
+                  "width":250,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u18.png"}},
+{
+          "id":"9da2a6afcefe4536ab2d2c5e8600893b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":430},
+            "size":{
+              "width":250,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a5322dcebf1a44e68906dc26da9f0e74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":430},
+                "size":{
+                  "width":250,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u20.png"}},
+{
+          "id":"73867276e4404ead8528270b107a4156",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":530},
+            "size":{
+              "width":250,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bffbf980c8504944bcee43724f4bd1bb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":530},
+                "size":{
+                  "width":250,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u22.png"}},
+{
+          "id":"4049f868163f42178d19dd5f117ecd98",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":520,
+              "y":580},
+            "size":{
+              "width":70,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc23f8b46227459b95584207f7267232",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":520,
+                  "y":580},
+                "size":{
+                  "width":70,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 用户信息登记",
+                      "target":{
+                        "targetType":"page",
+                        "url":"用户信息登记.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u14.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "de7bbe0d583b479ebe0c1f25248657a6":{
+      "scriptId":"u0"},
+    "6ed7f7f69c50460a865fdb768f4f1ce8":{
+      "scriptId":"u1"},
+    "16ab17687c1a428d9e11a5e955420497":{
+      "scriptId":"u2"},
+    "83fd5768576d4673a1ee7eed420c227d":{
+      "scriptId":"u3"},
+    "fd635b93a2004d2b873af238369eecf6":{
+      "scriptId":"u4"},
+    "8d004ffa8ecf42c4a1dacda2345eca94":{
+      "scriptId":"u5"},
+    "f5d33db5c4e148feab92ff3f18056515":{
+      "scriptId":"u6"},
+    "ecad1cee42bf4fdca3d2f5cad0a3fe93":{
+      "scriptId":"u7"},
+    "2a82e9880a4c4104a50a96cbddbd322b":{
+      "scriptId":"u8"},
+    "d615cae5a3044bf9af3e7b999b16be43":{
+      "scriptId":"u9"},
+    "63fb7a1a60f7420494884067bb5041ac":{
+      "scriptId":"u10"},
+    "a0625f98ec4a4ab0ac404be443d10747":{
+      "scriptId":"u11"},
+    "4242ae44e99d45c49dd4f1b1ee015b15":{
+      "scriptId":"u12"},
+    "3d9f214d8d8040058bb9aef8fbdbd727":{
+      "scriptId":"u13"},
+    "6085a16a236d404a8bf481a2a3c1a432":{
+      "scriptId":"u14"},
+    "35d4126c600a4d1c9a005c927d2ff0ed":{
+      "scriptId":"u15"},
+    "54f8aeeeb67a4496a9bd6ebf937373db":{
+      "scriptId":"u16"},
+    "c28f04e761154110ae53df51e0c3f578":{
+      "scriptId":"u17"},
+    "670a1c57fc66473fa8e8076201e39358":{
+      "scriptId":"u18"},
+    "1de0c4ee0d844fb984484ddbbaf13dd9":{
+      "scriptId":"u19"},
+    "9da2a6afcefe4536ab2d2c5e8600893b":{
+      "scriptId":"u20"},
+    "a5322dcebf1a44e68906dc26da9f0e74":{
+      "scriptId":"u21"},
+    "73867276e4404ead8528270b107a4156":{
+      "scriptId":"u22"},
+    "bffbf980c8504944bcee43724f4bd1bb":{
+      "scriptId":"u23"},
+    "4049f868163f42178d19dd5f117ecd98":{
+      "scriptId":"u24"},
+    "bc23f8b46227459b95584207f7267232":{
+      "scriptId":"u25"}}});
