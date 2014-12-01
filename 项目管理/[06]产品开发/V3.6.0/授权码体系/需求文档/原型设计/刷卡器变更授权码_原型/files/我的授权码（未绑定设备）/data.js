@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的授权码（未绑定设备）.html",
-  "generationDate":new Date(1416631107734.38),
+  "generationDate":new Date(1417055392812.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

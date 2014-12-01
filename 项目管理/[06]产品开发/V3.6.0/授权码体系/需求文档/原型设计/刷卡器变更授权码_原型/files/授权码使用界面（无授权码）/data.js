@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"授权码使用界面（无授权码）.html",
-  "generationDate":new Date(1416631107640.63),
+  "generationDate":new Date(1417055392734.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -608,7 +608,7 @@
               "y":517},
             "size":{
               "width":260,
-              "height":83}},
+              "height":113}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -626,7 +626,7 @@
                   "y":517},
                 "size":{
                   "width":260,
-                  "height":83}},
+                  "height":113}},
               "adaptiveStyles":{
 }}],
           "images":{

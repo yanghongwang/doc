@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"已分配记录.html",
-  "generationDate":new Date(1416631107484.38),
+  "generationDate":new Date(1417055392593.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

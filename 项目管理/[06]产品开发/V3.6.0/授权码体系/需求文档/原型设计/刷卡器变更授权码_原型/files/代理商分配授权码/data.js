@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"代理商分配授权码.html",
-  "generationDate":new Date(1416631107375),
+  "generationDate":new Date(1417055392453.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"刷卡器获取授权码.html",
-  "generationDate":new Date(1416631106843.75),
+  "generationDate":new Date(1417055392062.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
