@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"收银台.html",
-  "generationDate":new Date(1417587745078.13),
+  "generationDate":new Date(1417684938562.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u0.png"}},
+            "normal~":"images/商城首页1/u0.png"}},
 {
           "id":"d30392d6ab0344e7a8c604761e34ca3f",
           "label":"",
@@ -114,7 +114,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u2.png"}},
+            "normal~":"images/商城首页1/u2.png"}},
 {
           "id":"1b5eb50e07d140bbad66e6ba25233e02",
           "label":"",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u2.png"}},
+            "normal~":"images/商城首页1/u2.png"}},
 {
           "id":"e5c088ac931249a8a9890c52a6d0d02f",
           "label":"",
@@ -200,7 +200,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u6.png"}},
+            "normal~":"images/商城首页1/u6.png"}},
 {
           "id":"aa1b2df08fc04a3a8d281b11074a66f2",
           "label":"",
@@ -243,7 +243,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u8.png"}},
+            "normal~":"images/商城首页1/u8.png"}},
 {
           "id":"cba3e2553f8e4a42a8cfeb95bdc45687",
           "label":"",
@@ -290,7 +290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u10.png"}},
+            "normal~":"images/商城首页1/u10.png"}},
 {
           "id":"0b9c273a5e714cfa857a54a5b5741711",
           "label":"",
@@ -339,7 +339,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u12.png"}},
+            "normal~":"images/商城首页1/u12.png"}},
 {
           "id":"c9599df1ae624ab686a5c606bf25e159",
           "label":"",
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u14.png"}},
+            "normal~":"images/商城首页1/u14.png"}},
 {
           "id":"d90ab8c2a8bf4a40912813a51b036927",
           "label":"",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u16.png"}},
+            "normal~":"images/商城首页1/u16.png"}},
 {
           "id":"ad6872e8d9d64d119e09be888cb59016",
           "label":"",
@@ -482,7 +482,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u20.png"}},
+            "normal~":"images/商城首页1/u20.png"}},
 {
           "id":"eb51aecb01644cd4be0e81ce033ca0a1",
           "label":"",
@@ -523,7 +523,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u22.png"}},
+            "normal~":"images/商城首页1/u22.png"}},
 {
           "id":"9b3e7acb610d4bd0ba05385858f92d9a",
           "label":"",

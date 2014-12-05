@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认.html",
-  "generationDate":new Date(1417587744000),
+  "generationDate":new Date(1417684937953.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u0.png"}},
+            "normal~":"images/商城首页1/u0.png"}},
 {
           "id":"508468ecf5904155ab733a6066865fac",
           "label":"",
@@ -114,7 +114,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u2.png"}},
+            "normal~":"images/商城首页1/u2.png"}},
 {
           "id":"9f1a4e21397d4fe7919371903f275b7b",
           "label":"",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u2.png"}},
+            "normal~":"images/商城首页1/u2.png"}},
 {
           "id":"0eb07fb55be548a78b85b68283043a62",
           "label":"",
@@ -200,7 +200,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u6.png"}},
+            "normal~":"images/商城首页1/u6.png"}},
 {
           "id":"e77b8bfc7f6d4e48b5d5f5d4784a55a8",
           "label":"",
@@ -243,7 +243,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u8.png"}},
+            "normal~":"images/商城首页1/u8.png"}},
 {
           "id":"629481dc5c484b918e2bd043f2982a3b",
           "label":"",
@@ -290,7 +290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u10.png"}},
+            "normal~":"images/商城首页1/u10.png"}},
 {
           "id":"ed6b8241ebe442bebb0e0e76fcfce7f6",
           "label":"",
@@ -339,7 +339,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u12.png"}},
+            "normal~":"images/商城首页1/u12.png"}},
 {
           "id":"d70f47accd8e4d17841e521a54a3906d",
           "label":"",
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u14.png"}},
+            "normal~":"images/商城首页1/u14.png"}},
 {
           "id":"31785015d76d43cbb2f5c9574843d5fb",
           "label":"",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u16.png"}},
+            "normal~":"images/商城首页1/u16.png"}},
 {
           "id":"d6171a309c0349c9abdd6a1852eb6bef",
           "label":"",
@@ -482,7 +482,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u20.png"}},
+            "normal~":"images/商城首页1/u20.png"}},
 {
           "id":"bc172e2ffd4844bc8e57a77784da57df",
           "label":"",
@@ -523,7 +523,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/引导页/u22.png"}},
+            "normal~":"images/商城首页1/u22.png"}},
 {
           "id":"7b1b94787cbe4659b6b6ac75caa75357",
           "label":"",
@@ -922,10 +922,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商城首页",
+                      "description":"在 当前窗口 打开 商城首页1",
                       "target":{
                         "targetType":"page",
-                        "url":"商城首页.html",
+                        "url":"商城首页1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1408,10 +1408,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商城首页",
+                      "description":"在 当前窗口 打开 商城首页1",
                       "target":{
                         "targetType":"page",
-                        "url":"商城首页.html",
+                        "url":"商城首页1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

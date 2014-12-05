@@ -17,9 +17,17 @@
         "type":"Wireframe",
         "url":"引导页.html",
         "children":[{
-            "pageName":"商城首页",
+            "pageName":"商城首页1",
             "type":"Wireframe",
-            "url":"商城首页.html"},
+            "url":"商城首页1.html"},
+{
+            "pageName":"商城首页2",
+            "type":"Wireframe",
+            "url":"商城首页2.html"},
+{
+            "pageName":"商城首页3",
+            "type":"Wireframe",
+            "url":"商城首页3.html"},
 {
             "pageName":"品类 · 商品列表页",
             "type":"Wireframe",
@@ -36,10 +44,6 @@
             "pageName":"订单确认",
             "type":"Wireframe",
             "url":"订单确认.html"},
-{
-            "pageName":"购物袋",
-            "type":"Wireframe",
-            "url":"购物袋.html"},
 {
             "pageName":"我的订单",
             "type":"Wireframe",
