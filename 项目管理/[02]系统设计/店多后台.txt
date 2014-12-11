@@ -3,6 +3,7 @@ http://www.papersystem.cn/tfb/login/login.html
 http://123.103.23.190/tfb/login/login.html
 ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
 ÈÕÖ¾£ºhttp://www.tfbpay.cn/mslogfile.php
+²âÊÔÈÕÖ¾£ºhttp://www.tfbpay.cn/testlogfile.php
 Êý¾Ý¿â£ºhttp://www.tfbpay.cn/msbakfile.php
 ºóÌ¨Êý¾Ý¿â¹ÜÀí£ºhttp://www.tfbpay.cn/kenkai/nice/phpMyAdmin/
 ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
